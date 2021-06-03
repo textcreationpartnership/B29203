@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moderation's commendation, in a parable· Wherein is set forth the life, death, and resurrection of moderation; together with her nativity, country, pedigree, kindred, character, friends and enemies.</title>
+            <author>N. S.</author>
+         </titleStmt>
+         <extent>Approx. 112KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29203</idno><idno type="EEBO-CITATION">99833524</idno>
+  <idno type="VID">207913</idno>
+  <idno type="EEBO-PROQUEST">2240960626</idno>
+  
+            <idno type="STC">Wing S119C_VARIANT</idno>
+            <idno type="PROQUEST">99833524</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833524e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2216:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moderation's commendation, in a parable· Wherein is set forth the life, death, and resurrection of moderation; together with her nativity, country, pedigree, kindred, character, friends and enemies.</title>
+                  <author>N. S.</author>
+               </titleStmt>
+               <extent>[16], 113, p. 100, [12] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst, at the Bible and three Crowns neer Mercers Chappel in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle signed: N.S.</note>
+                  <note>Copy tightly bound.</note>
+                  <note>Reproduction of the original in the Sion College Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Moderation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207913:1"/>
+            <p>MODERATION'S COMMENDATION, IN A PARABLE.</p>
+            <p>Wherein is set forth the Life, Death, and Resurrection of MODE<g ref="char:EOLhyphen"/>RATION; Together with her Nativity, Country, Pedigree, Kindred, Character, Friends and Enemies.</p>
+            <q>
+               <l>Moderation shall revive. Extremity shall cease.</l>
+               <l>Disobedience stoop to Reason; all end in Peace.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Parkhurst,</hi> at the Bible and three Crowns neer <hi>Mercers</hi> Chappel in <hi>Cheapside,</hi> 1674.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207913:2"/>
+            <pb facs="tcp:207913:2"/>
+            <head>TO HIS HONOURED FRIENDS <hi>T. E. J. B.</hi> and <hi>H. S.</hi> ESQUIRES, The Translatour wisheth all Health.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Find this follow<g ref="char:EOLhyphen"/>ing discourse was written many a day ago by <hi>Hesychius
+<pb facs="tcp:207913:3"/> Pamphilus,</hi> in the native Language of <hi>Feliciana</hi> (a Language peculiar to that Island.) And because there are not many Copies of it, and the Language it self not much understood, but by such as have been bred and born in that Island, or have travelled thither, I thought good to translate it for the common benefit or delight of our Coun<g ref="char:EOLhyphen"/>try-men.</p>
+            <pb facs="tcp:207913:3"/>
+            <p>The Story is not long, and in some things parallel to our present times, there<g ref="char:EOLhyphen"/>fore did I judge the Tran<g ref="char:EOLhyphen"/>slation more seasonable. If any reap either benefit or delight by reading of it, I reckon my pains more then requited. And for your selves, Gentlemen, if you shall please to own it as a testimony of singular re<g ref="char:EOLhyphen"/>spect to you (after that to the Publick) I shall super-add
+<pb facs="tcp:207913:4"/> that to the other En<g ref="char:EOLhyphen"/>gagements upon him, who is,</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed>Yours to serve you, <hi>N. S.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207913:4"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O the <hi>Courteous</hi> or <hi>Curious</hi> Reader, <hi>all Moderation.</hi> The like to all by-standers,
+<pb facs="tcp:207913:5"/> Hearers, Examiners, and Censurers of this discourse; and but one thing more, <hi>viz. To make this your Mode<g ref="char:EOLhyphen"/>ration known to all men,</hi> ('tis <hi>Apostolical</hi>) that with whomsoever you converse, you commend, promote, pro<g ref="char:EOLhyphen"/>pagate and countenance it; then have I as many <hi>Licen<g ref="char:EOLhyphen"/>sers</hi> (as I need;) so many <hi>Rea<g ref="char:EOLhyphen"/>ders,</hi> so many <hi>Licensers,</hi> who though they subscribe not to the <hi>Letter,</hi> yet do concur
+<pb facs="tcp:207913:5"/> with the <hi>Spirit</hi> of this Trea<g ref="char:EOLhyphen"/>tise. Then what happy Times! no more Swords, but Plough-shares; nor Spears, but Pruning-hooks; then no more jars, divisions, dissenti<g ref="char:EOLhyphen"/>ons, schisms, or heart-burn<g ref="char:EOLhyphen"/>ings, but <hi>the voice of the Turtle shall be heard in our Land,</hi> and <hi>the unity of the Spirit in the bond of peace in the Church.</hi>
+            </p>
+            <p>Then shall you not need to enquire where <hi>Feliciana</hi>
+               <pb facs="tcp:207913:6"/> is, we shall have it here:
+<q xml:lang="lat">Est hic, est Ulubris, animus si te non deficit aequus.</q>
+            </p>
+            <p>Nor yet to enquire what this <hi>Hesychius Pamphilus</hi> was, for I can promise for him, being in my younger dayes as well acquainted with his Spirit and Temper as any one. That he was one who would not willingly of<g ref="char:EOLhyphen"/>fend any one, no not the worst
+<pb facs="tcp:207913:6"/> Sons of <hi>Disobedience</hi> here spoken of, but to desire they might all be reduced to <hi>the wisdom of the Just:</hi> And that by <hi>Disobedience</hi> here described, he meant not any who in <hi>controverted Points</hi> do soberly and peace<g ref="char:EOLhyphen"/>ably dissent,
+<q xml:lang="lat">Omnes hic veniam peti<g ref="char:EOLhyphen"/>mus{que} damus{que} vicissim.</q>
+            </p>
+            <p>But only such as are di<g ref="char:EOLhyphen"/>sturbers
+<pb facs="tcp:207913:7"/> of <hi>the Civil Peace;</hi> and for such, <hi>Moderation</hi> her self hath not a word to say, but hath in readiness the <hi>weapons of her warfare, to revenge</hi> all such <hi>Disobedi<g ref="char:EOLhyphen"/>ence.</hi>
+            </p>
+            <p>Nor did he in speaking of <hi>Extremity, Politicus,</hi> or a<g ref="char:EOLhyphen"/>ny other, intend any reflexi<g ref="char:EOLhyphen"/>on upon any particular Per<g ref="char:EOLhyphen"/>son or Persons whatsoever, but had the same design with the wise <hi>Tekoitess,</hi> who
+<pb facs="tcp:207913:7"/> fetcht about <hi>a form of words,</hi> in a <hi>Parabolical</hi> strain, only to <hi>reduce the Lords banished,</hi> and to pre<g ref="char:EOLhyphen"/>vent the putting out the <hi>Coal of Israel,</hi> the Sacred Coal of Religion and Peace.</p>
+            <p>Now Reader, if thou carest neither for <hi>Hesychi<g ref="char:EOLhyphen"/>us,</hi> nor <hi>Pamphilus,</hi> nor the <hi>Translator</hi> neither, if thou art but for <hi>Moderation,</hi> I have enough, and shall love thee, and thank thee, yea,
+<pb facs="tcp:207913:8"/> give thee the publick thanks of the Nation.</p>
+            <p>And then have a Com<g ref="char:EOLhyphen"/>mission to <hi>invite</hi> thee to a meeting with some of <hi>Mo<g ref="char:EOLhyphen"/>derations</hi> Friends, to con<g ref="char:EOLhyphen"/>gratulate her <hi>up-rising,</hi> and the hopes of her <hi>Churching</hi> in due time, where we shall be <hi>merry,</hi> and more then that, <hi>thankful;</hi> and the <hi>Dishes</hi> we shall provide are but two <hi>great standing Dishes;</hi> the one, the <hi>largest</hi>
+               <pb facs="tcp:207913:8"/> that <hi>can be,</hi> of the greatest <hi>thankfulness</hi> to Almighty God for his Mercy; and the other, as near that <hi>as may be,</hi> of heartiest thanks to his Majesty, for his Gra<g ref="char:EOLhyphen"/>cious Indulgence, and Roy<g ref="char:EOLhyphen"/>al Clemency; and after both, one sober draught in a <hi>friendly Cup,</hi> called <hi>Po<g ref="char:EOLhyphen"/>culum Charitatis,</hi> which we desire may go round the whole Nation.</p>
+            <pb facs="tcp:207913:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:207913:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:207913:10"/>
+            <p>Now, Reader, go on, or farewel.</p>
+            <closer>
+               <signed>Thine N. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207913:10"/>
+            <head>THE HISTORY OF MODERATION.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> The Country, Pedigree, Parentage, Kinred and Acquaintance of <hi>Moderation.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">M</seg>ODERATION, how<g ref="char:EOLhyphen"/>soever she hath of later dayes lived obscurely, as a <hi>Stranger</hi> to most Nations of the Earth, and altogether unknown
+<pb facs="tcp:207913:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:207913:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:207913:12"/> to not a few, is <hi>descended</hi> of a very an<g ref="char:EOLhyphen"/>cient and honourable <hi>Family,</hi> famous for their Piety and Loyalty; She came out of the <hi>holy Land,</hi> was born at <hi>Arimathea,</hi> of the most Honourable Family in that City, and of the <hi>Sena<g ref="char:EOLhyphen"/>torian</hi> Dignity.</p>
+               <p>A Family which brought forth more <hi>Saints</hi> then all the world be<g ref="char:EOLhyphen"/>sides; all the holy <hi>Prophets</hi> of old, and the blessed <hi>Apostles,</hi> sprang out o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it; and very near in bloud she was, and intimately acquainted with those ma<g ref="char:EOLhyphen"/>ny Worthies famed in ancient Story whose Race is almost wholly worn out since, to wit, famous <hi>Ʋrban, Pudens Clemens, Justus, Aristobulus</hi> (an excel<g ref="char:EOLhyphen"/>lent Statesman and a Privy Councel<g ref="char:EOLhyphen"/>lour) <hi>Aristarchus</hi> (a great and gra<g ref="char:EOLhyphen"/>cious Prince) and <hi>Fortunatus</hi> a happy and experienced General) Saints a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in the Primitive <hi>Calender:</hi> As als<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with those of her own Sex, the Lady <hi>Dorcas,</hi> the <hi>Lady Elect,</hi> and her <hi>Siste<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Elect</hi> (whose names I do not now re<g ref="char:EOLunhyphen"/>member) so well known, and so muc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> honoured by the beloved Disciple
+<pb n="3" facs="tcp:207913:12"/> and Saint <hi>Lydia,</hi> Saint <hi>Priscilla,</hi> Saint <hi>Damaris,</hi> Saint <hi>Tryphaena,</hi> and her Sister Saint <hi>Tryphosa,</hi> and Saint <hi>Claudia</hi> (sup<g ref="char:EOLhyphen"/>posed to be our Country-woman:) But all of them unquestioned Saints in the first Primitive Calender, before any of those were <hi>Canonized,</hi> whose names fill up our present Calen<g ref="char:EOLhyphen"/>ders.</p>
+               <p>Many great Personages besides de<g ref="char:EOLhyphen"/>sired acquaintance with her, and some claimed Kinred of her; as first the Lady <hi>Pilate,</hi> but it was afar off, who privately sent word to the Lord <hi>De<g ref="char:EOLhyphen"/>puty</hi> her Husband, sitting <hi>President</hi> in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he <hi>High Court of Justice</hi> (as then <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>alled) that he should in no hand pro<g ref="char:EOLhyphen"/>ceed to the condemnation of the Pri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oner then at the Bar, whatsoever <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hould come of it, though he lost his place upon it.</p>
+               <p>And King <hi>Agrippa,</hi> who was much <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>urther off, who though he fouly dis<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iked the bandying against <hi>Moderation,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>et he spake but one word, and that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut faintly, in favour of the cause, and was but <hi>almost perswaded</hi> to counte<g ref="char:EOLhyphen"/>nance
+<pb n="4" facs="tcp:207913:13"/> it. Doctor <hi>Gamaliel</hi> was th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nearest of the three, and spake more i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> her behalf, to stop the further prosecu<g ref="char:EOLunhyphen"/>tion against her for a time, and so di<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> help her out.</p>
+               <p>But <hi>Tertullus</hi> the <hi>Sollicitor,</hi> was a pestilent Adversary (whether, as o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> said, <hi>Avaritiae magis quam maliti<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> causa,</hi> I will not determine) and<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> spent all his Oratory and Rhetoric<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to make her as black and odious as<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> could.</p>
+               <p>The place of her birth was <hi>Arim<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>thea</hi> (as I said before) and is the san<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with that which was called <hi>Ramah</hi> old, where was the first <hi>Academy</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Divine Students, and the ancient<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Colledge</hi> that was for the sons of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Prophets, whereof <hi>Samuel</hi> was <hi>Pres<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dent;</hi> and the self same City, where b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fore him <hi>Deborah,</hi> that renown<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Princess, and first <hi>Queen Regent,</hi> ke<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> her Court. There was she born.</p>
+               <p>Her Fathers name was <hi>Seignior Gr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>vity:</hi> Her Mothers, Matron <hi>Sagac<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> (a Woman of few words, but gre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> understanding.) And a happy Co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ple
+<pb n="5" facs="tcp:207913:13"/> they were, and of ancient and ho<g ref="char:EOLhyphen"/>nourable Extractions. <hi>Gravity</hi>'s Fa<g ref="char:EOLhyphen"/>ther was a Grandee of State, an Ho<g ref="char:EOLhyphen"/>nourable Privy Counsellor, lived and dyed at <hi>Arimathea,</hi> his name <hi>Joseph,</hi> whose Genealogy may be fetcht from the <hi>Second Adam,</hi> it was so high, so holy, and so ancient; his Father <hi>Ben Hagios,</hi> sirnamed <hi>Bar-Jonah,</hi> he the Son of <hi>David,</hi> he the Son of <hi>Abraham,</hi> he the Son of <hi>Noah,</hi> he the Son of <hi>Enoch,</hi> he the Son of <hi>Seth,</hi> he the Son of <hi>Adam the Second,</hi> he the undoubted <hi>Son of God, and the first-born of every Creature:</hi>
+               </p>
+               <p>He it was that in open Court, when that first High Court of <hi>Injustice</hi> was set to arraign and condemn the most Innocent Person that ever was, and their Sacred Soveraign besides, <hi>the Lords Annointed,</hi> perswaded and pres<g ref="char:EOLhyphen"/>sed, with all his might, to stay that bloudy Sentence from being pronoun<g ref="char:EOLhyphen"/>ced and executed, which, as he then told them, might sooner be <hi>repented <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hen recalled,</hi> and would set all the Na<g ref="char:EOLhyphen"/>tion a bleeding; and when he saw he
+<pb n="6" facs="tcp:207913:14"/> could not be heard, he entred his <hi>Pro<g ref="char:EOLhyphen"/>testation,</hi> arose from the Bench, and withdrew with much detestation from their Assembly, with whom h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> would not have his <hi>Honour united</hi> nor his Loyalty and Conscience stain<g ref="char:EOLhyphen"/>ed.</p>
+               <p>
+                  <hi>Sagacity</hi>'s Ancestors were Church<g ref="char:EOLhyphen"/>men; some of them had been presen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> at the first and best <hi>Synod</hi> that eve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> was called together, met purposely fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Accommodation,</hi> where all unanimousl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> voted no <hi>Imposition</hi> of things burden<g ref="char:EOLunhyphen"/>som to Conscience, and agreed to pa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> a very few <hi>Canons,</hi> enjoyning onl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> some <hi>things necessary,</hi> whereby th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Peace of the Church was then happi<g ref="char:EOLunhyphen"/>ly settled.</p>
+               <p>The Children did not at all degene<g ref="char:EOLunhyphen"/>rate from their Parents, but as the had been vertuously brought up, s<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they lived together as sweetly, no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> being married till of full age, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> good understanding; and as their Fa<g ref="char:EOLunhyphen"/>thers had been, each of them, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> glory of their respective Professi<g ref="char:EOLunhyphen"/>ons, so were the Children th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:207913:14"/> glory and joy of their Parents.</p>
+               <p>But it happening after a certain time, that <hi>Persecution wasting</hi> on the one hand, and <hi>desolating Armies</hi> on the other over-running all, their Native Country grew <hi>too hot</hi> for them to abide in: Therefore were they forced to seek out some more safe and quiet habitation; and having travel<g ref="char:EOLhyphen"/>led many Countries, but finding no such, where they might quietly settle, they came at last to a certain <hi>Island,</hi> called <hi>Feliciana,</hi> by others corruptly, <hi>Elysiana;</hi> an Island nearest the <hi>Ae<g ref="char:EOLhyphen"/>quator</hi> of any other, yet not under the <hi>Equinoctial line;</hi> that being an errour which our times have corrected, the <hi>just Aequator</hi> not being where <hi>dayes</hi> and <hi>nights</hi> are of equal length, but where the Inhabitants minds and spi<g ref="char:EOLhyphen"/>rits are equally affected each to other, therefore by some called the <hi>Aequi-animal,</hi> or <hi>Aequi-amicitial</hi> line, by others the <hi>Aequi-scriptural</hi> line, more easie to be found in the new <hi>Coelestial</hi> Globe, then in the old <hi>Terrestrial;</hi> there did they plant themselves and
+<pb n="8" facs="tcp:207913:15"/> their Family. A very fertile Isle it is and seated in a most <hi>temperate</hi> Clime there being no <hi>extremity</hi> of heat or cold; blessed with a happy Govern<g ref="char:EOLhyphen"/>ment and Laws, squared many o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> them to a Conformity to Divine Pre<g ref="char:EOLunhyphen"/>cepts, others suited to the condition o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the people, in order to publick good No where is a <hi>Deity</hi> more honoured a Prince more beloved, a people mor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> happy, and peaceably disposed. Then they usually live to a great age, and i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> much health and plenty, and dye no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> till they are full of dayes. The tem<g ref="char:EOLhyphen"/>perateness of the Clime may be easily conjectured, if you consider the scitua<g ref="char:EOLunhyphen"/>tion of it, it being seated just in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> very <hi>middle Degree</hi> of <hi>Latitude,</hi> and in the very utmost and most remote degree of <hi>Longitude</hi> from the <hi>Meridi<g ref="char:EOLhyphen"/>an</hi> of <hi>Rome.</hi>
+               </p>
+               <p>Thither, I say, came this Family, and there seated themselves, and there had they the Children which they had, of whom we shall speak; whose History being many a day ago written in the native Language of that Island, is
+<pb n="9" facs="tcp:207913:15"/> here transcribed and translated out of the Original, for the benefit or delight of our own Country.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of the two Brethren of <hi>Mode<g ref="char:EOLhyphen"/>ration.</hi>
+               </head>
+               <p>THe Parents had but a few Chil<g ref="char:EOLhyphen"/>dren, though they lived long to<g ref="char:EOLhyphen"/>gether, to a great age; never had but two Sons (and they Twins) and one only Daughter, of whom this Dis<g ref="char:EOLhyphen"/>course chiefly relates. The name of the elder was <hi>Philodike,</hi> or Love-Ju<g ref="char:EOLhyphen"/>stice, a rare Patriot, and excellent Statesman: of the other <hi>Philotheos,</hi> a true friend to Religion, and as eminent a Clergy-man.</p>
+               <p>They were Twins, as I said, and so alike, that you could not know the one from the other: Both were nur<g ref="char:EOLhyphen"/>sed
+<pb n="10" facs="tcp:207913:16"/> by their own Mother <hi>Sagacity,</hi> o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> like feature, stature and disposition alwayes bred up together, equally be<g ref="char:EOLunhyphen"/>loved of their Parents, and (whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is rare to be found among Brethren i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> these dayes) no emulation or unkind<g ref="char:EOLunhyphen"/>ness in the earth, but alwayes inti<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> love and firm agreement to their dy<g ref="char:EOLunhyphen"/>ing day; whatsoever pleased or di<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pleased the one, did the same to th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> other; they both joyed and grieve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> together, liked and disliked alike, by strange and rare simpathy of natur<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and affection: They lived both to b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> good old men, and dyed both toge<g ref="char:EOLunhyphen"/>ther, immediately after their Siste<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Moderation</hi> (even the self-same Day and all three buryed in one and rh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> same Grave.</p>
+               <p>The Mother, if she might have ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the name, would have had the elde<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> called <hi>Philotheos,</hi> and bred a <hi>Divine<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> because her father was so; but he Husband perswaded her, and she pre<g ref="char:EOLhyphen"/>sently yielded to have the younger s<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> called, adding withall, that it could be no disparagement to him, to have th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:207913:16"/> elder called <hi>Philodike,</hi> for otherwise, said he again, it were but small honour or comfort to me, to give the name of Religion and Love to God, if there were not first had a respect to Justice and Righteousness.</p>
+               <p>But it made no matter which was which, for not only their age, habit and complexion were alike, but their disposition too, so that you had not been much mistaken, or at all called them out of their names, if you had called either of them <hi>Philodike,</hi> or <hi>Philotheos;</hi> for <hi>Philodike,</hi> the Lover of Justice, was as true a Friend to Reli<g ref="char:EOLhyphen"/>gion as <hi>Philotheus</hi> himself was; and <hi>Philotheos,</hi> the Lover of God and Re<g ref="char:EOLhyphen"/>ligion, was as much for Justice and Righteousness as his Brother was.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="12" facs="tcp:207913:17"/>
+               <head>
+                  <hi>CHAP. III.</hi> The Birth and Breeding of <hi>Mo<g ref="char:EOLhyphen"/>deration.</hi>
+               </head>
+               <p>THey had but one Sister between them, her name was <hi>Moderation</hi> (born to her Parents when they were well in years:) And she bred up at home, and nursed by her Mother <hi>Sa<g ref="char:EOLhyphen"/>gacity,</hi> who, with <hi>Seignior Gravity</hi> the Father, had instilled into her the chief Principles of Religion, Morality and Prudence, and she so apt and appre<g ref="char:EOLhyphen"/>hensive withall, to conceive and re<g ref="char:EOLhyphen"/>tain (whatsoever she <hi>heard</hi> or <hi>read</hi> was all her own presently:) And besides it was observed in her, she would oft ask such <hi>Questions,</hi> and make such <hi>Queries,</hi> to understand the reason of things that seemed high, or doubtful and obscure (but still things
+<pb n="13" facs="tcp:207913:17"/>
+                  <hi>pertinent</hi> and <hi>serious</hi>) as was to be wondered at in a Woman, and of her age especially: Neither did she ever trouble her head about <hi>Niceties</hi> and <hi>Impertinencies,</hi> that it was verily con<g ref="char:EOLhyphen"/>ceived she could give as good satisfa<g ref="char:EOLhyphen"/>ctlon in most points of <hi>Religion</hi> and <hi>Practice</hi> as most <hi>Divines;</hi> and in mat<g ref="char:EOLhyphen"/>ters of <hi>Prudenee,</hi> and right <hi>State-Po<g ref="char:EOLhyphen"/>licy,</hi> few Statesmen could go beyond her: So that it was said, of all hands, of her when she was young, that she must be married, either to some emi<g ref="char:EOLhyphen"/>nent <hi>Statesman,</hi> or <hi>Churchman,</hi> for she would make an excellent Wife for either, and accordingly it fell out, for she was married to two such, one after the other, as you will hear a<g ref="char:EOLhyphen"/>non.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="14" facs="tcp:207913:18"/>
+               <head>
+                  <hi>CHAP. IV.</hi> Of <hi>Experience, Aunt</hi> to <hi>Modera<g ref="char:EOLhyphen"/>tion,</hi> her Husband, Children, Character and Employment, and how <hi>Moderation</hi> was bred in her School.</head>
+               <p>I Might have informed you also, that <hi>Sagacity</hi> had an elder Sister, called <hi>Experience,</hi> a very wise, know<g ref="char:EOLhyphen"/>ing and vertuous Woman, and she liv<g ref="char:EOLhyphen"/>ed to a very great age, in so much as she was commonly call'd <hi>Old Experi<g ref="char:EOLhyphen"/>ence:</hi> But she had gone through a world of <hi>troubles</hi> as ever any did (inward and outward) for many years, much sick<g ref="char:EOLhyphen"/>ness, many crosses in the world, yet would she still say, all were for her good. And the least was not in her Hus<g ref="char:EOLhyphen"/>band, to whom she was married very
+<pb n="15" facs="tcp:207913:18"/> young; his name <hi>Philantos</hi> (he loved himself, and cared for no body else) a great <hi>Gallant</hi> he was, and newly come of age, and of a fair Estate; but a wilfull and heady young man he was, and must not be contradicted nor counselled neither: He would never hearken to the advice of his Wife <hi>Experience</hi> till all was gone; He was many times hasty and unkind to his Wife besides, when any thing had crossed him, and this was a <hi>great cut</hi> to her. But at last she, by her wisdom and fair carriage, wrought a great change in him; so that people would often say, See by <hi>Experience,</hi> what may not a wise Woman bring a bad Husband to in time? <hi>The Good Gill may mend the Bad Jack.</hi>
+               </p>
+               <p>She had by him many Children, three Sons, and as many more Daugh<g ref="char:EOLhyphen"/>ters: The three Sons first, whose names were, <hi>Philedonos, Misoponos,</hi> and <hi>Asotos,</hi> all three too like the Fa<g ref="char:EOLhyphen"/>ther.</p>
+               <p>
+                  <hi>Philedonos</hi> was all for play and his pleasure; a dainty and delicate youth
+<pb n="16" facs="tcp:207913:19"/> he was, and his Father had spoiled him, by making a very Wanton of him and he must be a Gentleman becaus<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the eldest.</p>
+               <p>
+                  <hi>Misoponos</hi> was put to a Trade, but deadly lazy Boy he was, very dull a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> learning, and hardly brought to settl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to any thing, or stay with any Ma<g ref="char:EOLunhyphen"/>ster.</p>
+               <p>
+                  <hi>Asotos</hi> was worst of all, a prodiga<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> vain he had in spending whatever h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> could wrap and rend, and good at no<g ref="char:EOLunhyphen"/>thing in the Earth but stroying.</p>
+               <p>When many saw these young Lad<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and beheld their carriage, they sai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it was not for nothing that that Pro<g ref="char:EOLunhyphen"/>verb was raised, <hi>Experientia Mai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Stultorum,</hi> that is, <hi>Experience</hi> is th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Mother of Fools. But all three at la<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> having well smarted for their folly and being well taught by their Mo<g ref="char:EOLunhyphen"/>ther, <hi>Dear Experience</hi> (she took a wor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of pains with them first) they wer<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> much reclaimed.</p>
+               <p>But her Daughters proved all sin<g ref="char:EOLunhyphen"/>gularly good. The first was <hi>Proba<g ref="char:EOLunhyphen"/>tion;</hi> she had endured much, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:207913:19"/> had been exercised with many temp<g ref="char:EOLhyphen"/>tations.</p>
+               <p>The second <hi>Patience,</hi> a very meek, quiet and submissive a Creature as lived, never murmuring, fretting, or discontented.</p>
+               <p>And the third <hi>Diligence,</hi> a mighty active and handy body, and so willing and desirous to please, as you never saw the like.</p>
+               <p>These three she had pretty <hi>thick</hi> one after the other in her younger dayes, and stay'd a fair while ere she <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ad any more; in so much that many <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hought she would have had no more Children: And all these three <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ent through <hi>much hardship;</hi> you might, if you had looked wishly on <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hem, have discerned somewhat of <hi>Care</hi> in their very Countenances, for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Mother had been under several <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roubles all the while she went with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hem; And they had all of them a
+<pb n="18" facs="tcp:207913:20"/> spice of <hi>Melancholy,</hi> and were trou<g ref="char:EOLhyphen"/>bled with the <hi>Hypocondriack wind,</hi> which they after rubbed out, and then grew very healthful, and lived all o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> them comfortably.</p>
+               <p>After these three, <hi>Probation, Pati<g ref="char:EOLhyphen"/>ence</hi> and <hi>Diligence,</hi> were a little grown up, she had three other goodly Chil<g ref="char:EOLhyphen"/>dren: <hi>Hope</hi> the first, after her <hi>Confi<g ref="char:EOLhyphen"/>dence,</hi> and last of all <hi>Assurance:</hi> These she had not so thick as the other three, but she stay'd a fair while be<g ref="char:EOLhyphen"/>tween <hi>Hope</hi> and <hi>Confidence,</hi> and some<g ref="char:EOLhyphen"/>what longer ere she had <hi>Assurance<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> These three last made <hi>Experience</hi> a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> joyful Mother, and crowned her late<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> dayes with much happiness, and they were as happy for their part in their Mother: Tender Children all thre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when young, and had never grow<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> up, if their own Mother had not care<g ref="char:EOLhyphen"/>fully nursed them: But when grown, they were of an excellent Complexi<g ref="char:EOLhyphen"/>on, and rare Constitution, ever health<g ref="char:EOLhyphen"/>ful, and so chearful, that they wer<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> never known to have an ill day, o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:207913:20"/> look with a sad Countenance: Nay, the <hi>Mother</hi> never had an <hi>ill fit</hi> all the while she went with <hi>Hope, Confidence</hi> and <hi>Assurance,</hi> as she had formerly had with all her other Children: Yea, it is thought she lived the longer for them; and they were such good Chil<g ref="char:EOLhyphen"/>dren, and so tender of their Mother, that they eased her of all troubles, so that she was never troubled with any <hi>earthly</hi> business after, but lived as if she had been in Heaven already, no Creature in all the world so happy as she.</p>
+               <p>Her wild Husband <hi>Philautos,</hi> hav<g ref="char:EOLhyphen"/>ing now made away all his Estate, and his Wives <hi>Portion</hi> too, was at last fain to live upon his Wives care and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ains; and she maintained him and all her Children very comfortably.</p>
+               <p>She taught a <hi>School,</hi> and was excel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ently qualified for that Employment; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mighty <hi>judicious</hi> and solid Person <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he was; a great and diligent <hi>Obser<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er</hi> she had been of whatever memo<g ref="char:EOLhyphen"/>rable
+<pb n="20" facs="tcp:207913:21"/> matters she had read, or had oc<g ref="char:EOLunhyphen"/>curred in her time: She was univer<g ref="char:EOLunhyphen"/>sally read, I suppose, in all Historie whatsoever, <hi>Ecclesiastical</hi> or <hi>Civil</hi> Ancient or Modern; she had all th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Chronicles of the Kings of the Lan<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and all the remarkable Accidents ar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Occurrents that had happened in the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> several Reigns, <hi>ad unguem,</hi> besid<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> what she had furnisht her self with her own Collections and Observa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ons for many years; and she had most rare memory.</p>
+               <p>She could tell you by variety Examples, and plenty of Instanc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> what had made Princes happy or u<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fortunate, what would make a Co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>monwealth flourish or decay; w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> would raise or ruine a Family, w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> would settle or disturb the Churc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> peace: In a word, you could har<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> put that to her, which she could<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> satisfie you in; she could tell y<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> who, or what, was like to thrive<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> miscarry; what Match was like<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> prove well or ill: And her Judgme<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> seldom failed.</p>
+               <pb n="21" facs="tcp:207913:21"/>
+               <p>She had an <hi>Aphorisme,</hi> which was frequently and familiarly in her mouth, and call'd it an infallible <hi>Ma<g ref="char:EOLhyphen"/>xime,</hi> by which you might ghess at what was future by what was past, which, she said, she had from the <hi>Pen</hi> of a matchless Prince, a man of the deepest insight, and greatest wisdom and observation in the world, and was this, <hi>That which hath Been will Be, and there is nothing new under the Sun.</hi>
+               </p>
+               <p>With her <hi>Moderation</hi> had much of her breeding, besides what she had had put to her by her Father <hi>Gravity,</hi> and her Mother <hi>Sagacity;</hi> and careful she was to treasure up her Aunt <hi>Experi<g ref="char:EOLhyphen"/>ences</hi> Aphorismes and Dictates as so many Jewels of Gold; yea, in every matter of moment she would still come and advise with her Aunt <hi>Experience,</hi> to her dying day, for she long out-lived <hi>Moderation.</hi>
+               </p>
+               <p>Moreover, <hi>Philodike</hi> and <hi>Philothe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> the two Brothers, were wont, at every
+<pb n="22" facs="tcp:207913:22"/> breaking up at School, to come an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> spend their time with her; yea, afte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they had been at the University, the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> would often come and visit her, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they thought their time well spe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> while they were with her: Th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> would often confess, they had lear<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that from her mouth, which th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> might have looked for long enoug<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in their Books, and not have m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> withall: Yea, when they were a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vanced to that greatness, whereof shall tell you more anon, they wou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> familiarly come to her for advice a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> counsel, and this made the one so ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>py and accomplisht a Statesman, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the other a Divine.</p>
+               <p>She had not, as was thought some, much of Learning or Lang<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ges, knew none but her Mothe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> tongue: But she had read most of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Writings of the Divines, and of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Histories of her own Country o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and over, and had them perfect: A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> she did constantly back her Prece<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with such choice and pregnant Exa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ples,
+<pb n="23" facs="tcp:207913:22"/> that made such impression in her Schollers, as that her Dictates were look'd upon as Authentick <hi>Demon<g ref="char:EOLhyphen"/>strations,</hi> or <hi>Probatums</hi> at least; and <hi>Ipse dixit</hi> was never more current in the old Philosophers School, then <hi>ipsa dixit,</hi> or <hi>Experientia docuit,</hi> was in hers; yea, <hi>Experientia docuit</hi> went for currant Authority all the Land over.</p>
+               <p>Very famous she was for the great good she did in teaching, and indeed she excelled all other School-masters and Mistrisses whatsoever, so that she was by some, for a singular Gift she had in teaching above all others, by way of <hi>Honour</hi> and <hi>Eminency,</hi> styled, <hi>Experientia Magistra Stultorum, Ex<g ref="char:EOLhyphen"/>perience</hi> the Mistress of Fools, because where none else could do good of them she could; but by most she was styled, <hi>Magistra Sapientum,</hi> the Mi<g ref="char:EOLhyphen"/>stress of the wisest. But to be sure all were the better that came under her Education and Instruction; and this was an Observation that was general<g ref="char:EOLhyphen"/>ly
+<pb n="24" facs="tcp:207913:23"/> taken of her Schollers, That they alwayes were better <hi>Livers,</hi> then those who had been taught only by Book.</p>
+               <p>
+                  <hi>Moderation</hi> was bred up in her School, as I said, and profited much, was the most plyable Scholler she had in all the School, and therefore she took the more delight to discourse with her, read her many a long Le<g ref="char:EOLhyphen"/>cture: She would sometimes take her in private with her into her Closet, and say to her, <hi>Moderation,</hi> thou art my near Kinswoman, I love thy very name, I would there were more of it; and next to my three youngest Daughters, <hi>Hope, Confidence</hi> and <hi>As<g ref="char:EOLhyphen"/>surance,</hi> so necessary to my Salvation, I love thee as well as any Child I have, and above any other mortal Creature whatsoever; thy name and nature being so full of <hi>benignity</hi> and beneficialness to all mankind, because so full of <hi>charity,</hi> which brings us Mortals on Earth to the nearest affi<g ref="char:EOLhyphen"/>nity with those Immortals in Heaven;
+<pb n="25" facs="tcp:207913:23"/> and should I ever have another Daughter, I would call her by thy name.</p>
+               <p>
+                  <q rend="margDblQuotes">
+                     <hi>Moderation,</hi> I will tell thee what I have observed, and know to be most certain; Thy Ancestors have been blessings to Mankind in all Ages, and in whatsoever Coun<g ref="char:EOLhyphen"/>tries they have lived, have honour<g ref="char:EOLhyphen"/>ed God, preserved Peace, secured States, prevented Commotions, suppressed Insurrections, united Hearts, strengthened Hands, con<g ref="char:EOLhyphen"/>firmed Love, rooted out Discord, countenanced Piety, cherished Loy<g ref="char:EOLhyphen"/>alty, protected Innocency, settled the Church, secured Religion, pre<g ref="char:EOLhyphen"/>vented Schismes, extirpated Here<g ref="char:EOLhyphen"/>sies, enacted wholsom Laws, esta<g ref="char:EOLhyphen"/>blisht Commonwealths, enriched the <hi>lower</hi> World with the <hi>highest</hi> blessings of Heaven, <hi>Peace, Joy, Ʋni<g ref="char:EOLhyphen"/>ty</hi> and <hi>Concord,</hi> and with the best of <hi>earthly</hi> blessings, <hi>Love, Friendship, Plenty</hi> and <hi>Prosperity.</hi> Oh! how good and joyful it is, to see Brethren
+<pb n="26" facs="tcp:207913:24"/> dwell together in Unity, cemente<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> together with the Spirit of tru<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Christian <hi>Moderation!</hi>
+                  </q>
+               </p>
+               <p>
+                  <q rend="margDblQuotes">Let me advise thee, my Child said she, to hearken to <hi>old Experi<g ref="char:EOLhyphen"/>ence;</hi> If thou lovest thy life, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> desirest to see good dayes, refra<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thy Tongue from evil, and thy Li<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> from speaking guile; eschew ev<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and do good, seek peace and ens<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> it: follow <hi>Peace</hi> with all men an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Holiness:</hi> Be sure thou follow hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> who said, learn of me that I a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>meek and lowly:</hi> Get that <hi>meek</hi> an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>quiet Spirit,</hi> which is said to be so great <hi>price</hi> with God: Hono<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the King, obey Principallities a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Powers; speak evil of no man, mu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> less of Dignities; clothe thy s<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> with humility, meekness and ino<g ref="char:EOLunhyphen"/>fensiveness; and be sure to reme<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ber thy own old short Lesson, <hi>I thy moderation be known to all me<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> be not high-minded, envy no ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> greatness; study to be quiet, and do thy own business; fly, as t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <pb n="27" facs="tcp:207913:24"/> most dangerous disease, and most in<g ref="char:EOLhyphen"/>fectious Pest to a State, that <hi>itching</hi> and <hi>bewitching</hi> evil, called <hi>Polyprag<g ref="char:EOLhyphen"/>mosyne,</hi> in our Language, <hi>pragmatical<g ref="char:EOLhyphen"/>ness,</hi> the fatal break-neck of many and many: Avoid Contentions, de<g ref="char:EOLhyphen"/>test Schismes; conjure down by faithful prayer, self-denial, and all other honest means, that evil spi<g ref="char:EOLhyphen"/>rit of <hi>Division, Censoriousness</hi> and <hi>Superciliousness:</hi> Mark them that cause Divisions and avoid them: Have no commerce with wicked<g ref="char:EOLhyphen"/>ness, and the rebellious sons of <hi>Belial,</hi> those of a fiery and turbulent spi<g ref="char:EOLhyphen"/>rit; in no hand meddle with them who are given to <hi>innovations</hi> and <hi>change;</hi> pray for all, and do good to all, that we may lead a quiet and peaceable life in all godliness and honesty; learn to <hi>bear</hi> and <hi>forbear:</hi> whosoever saith a <hi>Confederacy,</hi> say not thou a <hi>Confederacy,</hi> but let inte<g ref="char:EOLhyphen"/>grity and uprightness preserve thee; remember him, who watched over himself, when he saw others watch<g ref="char:EOLhyphen"/>ed over him, that they might not
+<pb n="28" facs="tcp:207913:25"/> take him <hi>tardy</hi> in any matter of the <hi>Kingdom:</hi> and who then will harm thee, if thou followest that which is good? But if thou meetest with trouble when thou doest well, re<g ref="char:EOLhyphen"/>member who said, it is better, if the will of God be so, to suffer for well doing then for evil, and whose Le<g ref="char:EOLhyphen"/>gacy that was, <hi>In the world</hi> you shall have <hi>trouble,</hi> but in me <hi>peace:</hi> But be sure you never suffer as an evil doer, or busie-body in other mens matters: then trust in God, and take his promise, and <hi>Experien<g ref="char:EOLhyphen"/>ces</hi> testimony to it, He will never fail thee, nor forsake thee, but make thy righteousness shine as the light, and thy innocency as the noon-day: Then <hi>Moderation</hi> thou shalt be a happy Woman, blessed in thy life, and more blessed in thy death; blessed in thy <hi>coming</hi> into the world, and more blessed in thy <hi>going out</hi> of this world into a better.</q>
+               </p>
+               <p>This, and much more to this pur<g ref="char:EOLhyphen"/>pose, did <hi>Experience</hi> say to <hi>Moderation,</hi>
+                  <pb n="29" facs="tcp:207913:25"/> and the like precepts she gave to all her Schollers.</p>
+               <p>And when <hi>Philodike</hi> and <hi>Philotheos</hi> came to visit her at any time, she would be lessoning them the best she could, and she would say to them,</p>
+               <p>
+                  <q rend="margDblQuotes">You are young, and I am old, I have seen many <hi>changes,</hi> I hope you will see an happy <hi>settlement;</hi> I have lived to see an end of <hi>Wars,</hi> I hope you shall never see an end of <hi>Peace;</hi> I have lived privately, be<g ref="char:EOLhyphen"/>ing a Woman, and of many sad try<g ref="char:EOLhyphen"/>als, you are hopeful and likely young men, and it may please God so to bless you, as that you may be called forth to publick Employ<g ref="char:EOLhyphen"/>ment, and if ever it shall please God to raise you, remember you are not born for your selves: Labour to be as good as great, more to please God then men; more to mind the pub<g ref="char:EOLhyphen"/>lick good then your private inte<g ref="char:EOLhyphen"/>rest: First seek the <hi>Kingdom of God,</hi> and the righteousness thereof; next,
+<pb n="30" facs="tcp:207913:26"/> the happiness of <hi>this Kingdom,</hi> and the welfare thereof; next to the Peace of God, and a good Consci<g ref="char:EOLhyphen"/>ence, prefer the Peace of Church and State, without which you can nei<g ref="char:EOLhyphen"/>ther have nor keep the former; nor make nor cherish <hi>Parties.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q rend="margDblQuotes">Drive on no Interest or Design but the publick good; contend for nothing but Piety, Sanctity, Unity and Charity; oppose and detest no<g ref="char:EOLhyphen"/>thing so much as Irreligiousness, Prophaness, Pride, Division and <hi>Revenge;</hi> fear God, honour your Soveraign, love your Country, pray for the Church, then shall you be blessed of God, protected, and, it may be preferred by your <hi>Prince,</hi> and beloved of your Country: Remember that old never failing <hi>Oracle,</hi> that <hi>Experience</hi> hath ever seen made good, <hi>Them that honour me I will honour,</hi> and <hi>they that de<g ref="char:EOLhyphen"/>spise me shall be lightly esteemed.</hi> And last of all, let me charge you, in whatsoever place you may be set,
+<pb n="31" facs="tcp:207913:26"/> that you never forget your Sister <hi>Moderation;</hi>
+                  </q> whom she held all that time in her hand, and there we now leave her at present, with her Aunt <hi>Experience.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="32" facs="tcp:207913:27"/>
+               <head>
+                  <hi>CHAP. V.</hi> Of <hi>Philodike</hi> and <hi>Philotheos</hi> bred together. <hi>Philodike</hi>'s Profession, Character, Advance<g ref="char:EOLhyphen"/>ment, Death, Burial and Epi<g ref="char:EOLhyphen"/>taph.</head>
+               <p>NOw leaving <hi>Moderation</hi> and he<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Aunt <hi>Experience</hi> together, we will return to <hi>Philodike</hi> and <hi>Philo<g ref="char:EOLhyphen"/>theos,</hi> the elder Children; While they were young they were bred to<g ref="char:EOLhyphen"/>gether under the same Tutors and Teachers: Towardly and hopefu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Children both (the forwardest Schol<g ref="char:EOLhyphen"/>lers in all the School) learning the same Authors, and performing the same School-Exercises, and profited so much, that in a short time (being well fitted first) they were sent to
+<pb n="33" facs="tcp:207913:27"/> the <hi>Ʋniversity,</hi> where both were taken much notice of for their extraordina<g ref="char:EOLhyphen"/>ry diligence, early rising, and some<g ref="char:EOLhyphen"/>times late sitting up at their study, and their great <hi>proficiency.</hi> There when they had taken their several <hi>Degrees</hi> (which had been conferred on them, not out of favour, but merit) <hi>Philo<g ref="char:EOLhyphen"/>dike</hi> removed thence first, to the Inns of Court, where he was none of your young Gallants, that brave it in rich Apparel, as if they came thither meer<g ref="char:EOLhyphen"/>ly to see and <hi>learn fashions;</hi> but a close and hard <hi>Student</hi> he was, dili<g ref="char:EOLhyphen"/>gently examining and enquiring into the Reasons and Grounds of the Law, and diving deeply, and piercing tho<g ref="char:EOLhyphen"/>rowly into the more knotty <hi>Intrica<g ref="char:EOLhyphen"/>cies</hi> and profound Mysteries of his Profession; to which having so well attained, he was called to the <hi>Bar,</hi> and in short time became famous for his <hi>practice;</hi> a most courteous and af<g ref="char:EOLhyphen"/>fable <hi>Gentleman</hi> he was, of a quick apprehension, clear head, firm memo<g ref="char:EOLhyphen"/>ry, free expression, and excellent good language, and above all, very <hi>conscien<g ref="char:EOLhyphen"/>tious</hi>
+                  <pb n="34" facs="tcp:207913:28"/> as to his <hi>Clyents</hi> and their <hi>Fees</hi> (great or small) he looked not so much at Clyent or Fee, as at the <hi>Cause,</hi> and that not whose it was, but what it was.</p>
+               <p>He was afterwards, by many steps, advanced to be <hi>Lord Chief Justice</hi> in the Island <hi>Feliciana;</hi> which Dignity he did more honour with his worthy carriage, then the place did honour him; there was he commonly styled, the <hi>Incorrupt Judge,</hi> and the <hi>Poor mans Advocate.</hi>
+               </p>
+               <p>And after that, his Prince taking further notice of him, he was taken in to be one of the <hi>Privy Councel,</hi> and had the Great Seal committed to his custody, and so he continued to his dying day; living in the high favour of his Prince, and dying in the love and honour of his Country.</p>
+               <p>Never was Great <hi>Patriot</hi> more ge<g ref="char:EOLhyphen"/>nerally lamented, and his Funeral Hearse more loaden with <hi>Encomia<g ref="char:EOLhyphen"/>stick
+<pb n="35" facs="tcp:207913:28"/> Elegies,</hi> then when he was buri<g ref="char:EOLhyphen"/>ed. One Paper I snatcht, which had at the foot of every <hi>Tetrastick</hi> this for the <hi>Burden;</hi> translated out of the Original, thus it may be ren<g ref="char:EOLhyphen"/>dered;
+<q>
+                     <l>Mourn, mourn for <hi>Philodike:</hi>
+                     </l>
+                     <l>Pray, pray God send's more like.</l>
+                  </q> And upon his Monument this <hi>Epitaph</hi> engraven.</p>
+               <q>
+                  <l>Here lyes Great <hi>Philodike,</hi> of <hi>Gra<g ref="char:EOLhyphen"/>vity</hi> descended,</l>
+                  <l>And Matron <hi>Sagacity,</hi> so much com<g ref="char:EOLhyphen"/>mended;</l>
+                  <l>The Glory, Peace, Welfare, Pillar of the Nation,</l>
+                  <l>He serv'd God, Prince, Country in his Generation,</l>
+                  <l>Brother to Great <hi>Philotheos</hi> and <hi>Moderation.</hi>
+                  </l>
+               </q>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="36" facs="tcp:207913:29"/>
+               <head>
+                  <hi>CHAP. VI.</hi> Of <hi>Philotheos,</hi> his Profession▪ Preferments, Character, Lif<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Death, Burial, Epitaph.</head>
+               <p>
+                  <hi>PHilotheos,</hi> as the Mother desire was bred a <hi>Divine,</hi> and stay much longer at the University, till was accomplisht with all Endo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ments requisite for a <hi>Church-ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> And being of great note there for<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> good life, solid preaching, and dep<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of learning, he was presented by worthy Patron to a competent L<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing, whereto he went, and was th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> constantly <hi>Resident,</hi> never had <hi>Plu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>lity,</hi> preached painfully, did v<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> much good, kept Hospitality, ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Peace among his Neighbours (if<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ny were at variance) brought<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Parish to a great measure of <hi>kn<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ledge</hi>
+                  <pb n="37" facs="tcp:207913:29"/> in Religion, and to a general <hi>good Conformity.</hi>
+               </p>
+               <p>There had he dyed incumbent, had not his Prince, hearing of his singu<g ref="char:EOLhyphen"/>lar worth, promoted him to a <hi>Bi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hoprick</hi> (that Government being <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hen in use in that Island, and so had been time out of mind) which though he accepted, he was not yet at all changed from what he was before, nor <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ifted up above his <hi>Brethren,</hi> but con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>inued his former constancy in preach<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng, became a Pattern to his Flock in Doctrine and Conversation; a great <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ncourager of Learned, Orthodox, painful, pious and peaceable Mini<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ters; nor did he more strictly en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uire after their conformity to the Church, then to the <hi>Scripture-Ca<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ons.</hi>
+               </p>
+               <p>In a word, he so gave himself to <hi>Reading, Exhortation and Doctrine,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd the other duties of a worthy Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or, so <hi>fulfilled</hi> his Ministery which <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e had received, as a good <hi>Steward</hi> of
+<pb n="38" facs="tcp:207913:30"/> the House of God; and one he wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> besides, that so well ruled his ow<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> house, that had he lived in the Primi<g ref="char:EOLunhyphen"/>tive times, he might have been ac<g ref="char:EOLunhyphen"/>counted a second <hi>Timothy,</hi> or in la<g ref="char:EOLunhyphen"/>ter times, he might have been calle<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> another <hi>Jewell:</hi> He also dyed full o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> dayes, and was much lamented<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> And upon his Hearse many a s<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Elegy</hi> was fastened, and one mu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> longer then all the rest, had at t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> end of every Verse this Burde<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> supposed to be made by the same A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>thor, and translated into English, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it runs.</p>
+               <q>
+                  <l>All weep for the death of wort<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Philotheos;</hi>
+                  </l>
+                  <l>Most pray, that the World become<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> now <hi>Atheos.</hi>
+                  </l>
+               </q>
+               <p>And upon his Monumene this <hi>E<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>taph</hi> inscribed.</p>
+               <q>
+                  <pb n="39" facs="tcp:207913:30"/>
+                  <l>Here lyes <hi>Philotheos,</hi> of Church-men best,</l>
+                  <l>Him the good will follow; <hi>God mend the rest:</hi>
+                  </l>
+                  <l>
+                     <hi>Moderation</hi> loved him, he <hi>Modera<g ref="char:EOLhyphen"/>tion:</hi>
+                  </l>
+                  <l>His death fills all with sad lamenta<g ref="char:EOLhyphen"/>tion.</l>
+               </q>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="40" facs="tcp:207913:31"/>
+               <head>
+                  <hi>CHAP. VII.</hi> Of <hi>Moderation</hi> her Virtues and Character, her two Ene<g ref="char:EOLhyphen"/>mies.</head>
+               <p>ANd now to return again to <hi>Mo<g ref="char:EOLhyphen"/>deration:</hi> Her two Brothers, while living, being of such eminent Quality (as you have heard) you would not think that their only Sister <hi>Moderation</hi> could want preferment, or sit long without many fair offers for a <hi>Great Match,</hi> and many such she had: But though she was a <hi>Lady</hi> of a most amiable Aspect, and compleatly accomplished, yet did she never affect <hi>Curiosity</hi> in her Dress, nor <hi>Costlines<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in her Apparel (though very decent and comely;) and upon that account partly, some of the Gallants, who had heard much of her fame, wisdom and
+<pb n="41" facs="tcp:207913:31"/> vertues, and had begun to court her, fell off again, and could give no other reason for it but this, that they feared she had so much of her Father <hi>Gra<g ref="char:EOLhyphen"/>vity</hi> in her, as was not sutable to their youthful and frollick humours.</p>
+               <p>And indeed she had a great resem<g ref="char:EOLhyphen"/>blance both of Father and Mother; Her Father <hi>Gravity</hi> she resembled to the life in her composed Countenance and Gesture, and her Mother <hi>Saga<g ref="char:EOLhyphen"/>city</hi> for all the world for her speech, prudence and temper of spirit; so full of serious consideration, and so judi<g ref="char:EOLhyphen"/>ciously circumspect, as not to take up every thing upon <hi>vulgar</hi> estimation, and common report, but duly exami<g ref="char:EOLhyphen"/>ning and deliberately weighing every thing still, as was to admiration: And the truth is, her two Brethren, <hi>Philodike</hi> and <hi>Philotheos,</hi> even in their highest Dignities, held it not below them to advise with <hi>Moderation,</hi> but in difficult cases especially, they would be sure to consult with her, because she had had more of her breeding
+<pb n="42" facs="tcp:207913:32"/> with their Aunt <hi>Experience</hi> then themselves: Neither did they ever repent their hearkening to her, for they still found, by <hi>Experience,</hi> that her counsel was alwayes safest; she was a Woman of a deep insight into matters of concernment for Church or State, and was never known to be <hi>byassed</hi> by interest or private passion (as most an end others are) but alwayes warily foresaw what was like to be the issue of things, and accordingly she advised what was most for publick good. She was universally beloved of all, above any mortal Creature, and had no Enemy in all the World, save only two, <hi>Extremity</hi> and <hi>Disobedience.</hi>
+               </p>
+               <p>
+                  <hi>Extremity</hi> hated her with all her heart, though she had never given her any cause: And <hi>Moderation</hi> hated <hi>Disobedience</hi> with a perfect hatred (and blame her not) she had just cause.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="43" facs="tcp:207913:32"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> Of <hi>Extremity,</hi> her Ped<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee, Cha<g ref="char:EOLhyphen"/>racter, and Enmity to <hi>Modera<g ref="char:EOLhyphen"/>tion.</hi>
+               </head>
+               <p>
+                  <hi>EXtremity</hi> was descended of an Ancient and Noble Family in <hi>Cilicia,</hi> sometimes a famous Province of the old Roman Empire; Her Fa<g ref="char:EOLhyphen"/>ther <hi>Saul the second,</hi> sirnamed <hi>Hyper<g ref="char:EOLhyphen"/>zelotes,</hi> a man known far and near, whose education had been choice, proficiency incredible, parts great, abilities rare, travels many, in his life alwayes <hi>irreprovable,</hi> and in his way very <hi>devout:</hi> In his younger dayes he had been of a hot and eager spirit, a <hi>Proto-persecutor</hi> of the <hi>Proto-Martyr Steven,</hi> but as he grew elder he grew more mild and moderate; and as he changed his harsher name of
+<pb n="44" facs="tcp:207913:33"/>
+                  <hi>Saul,</hi> into a softer, <hi>Paul,</hi> so was he quite changed in his disposition from <hi>Hyper-zelotes</hi> to <hi>Hyper-philadelphotes,</hi> and was turned into another man, as <hi>Saul</hi> the first was for a while, but he for ever.</p>
+               <p>He had been once of that Opinion, that no sort of men ought more se<g ref="char:EOLhyphen"/>verely to be <hi>Animadverted</hi> into, and dealt with, then such, who in the least dissented from the Religion and <hi>Rites of their Forefathers;</hi> and would but Authority pass Acts severe enough for suppression of such by <hi>Banishment, Bonds, Imprisonment,</hi> or death, he would be the man that would see them put in <hi>execution,</hi> which he also did, judg<g ref="char:EOLhyphen"/>ing it the best service could be done to God, or his Church; thereupon he haled many into Prisons, and com<g ref="char:EOLhyphen"/>pelled them to abjure, recant and blaspheme, or suffer and dye.</p>
+               <p>But after he was (I say) quite of another mind, and became the most complacent and complying Person in
+<pb n="45" facs="tcp:207913:33"/> the world, and held with <hi>Moderation</hi> as much as any: Now (he said) what was his <hi>gain</hi> before was now his <hi>loss,</hi> and what he formerly esteemed his <hi>glory,</hi> he looked on as his <hi>shame: Cir<g ref="char:EOLhyphen"/>cumcision</hi> was no more with him now then <hi>Ʋncircumcision;</hi> both nothing to the <hi>new Creature,</hi> to <hi>faith</hi> in Christ, to the <hi>keeping of</hi> the <hi>Commandements</hi> of God. He could condescend and com<g ref="char:EOLhyphen"/>ply so far now, as to be made <hi>all things to all men,</hi> so it were to further the salvation of any. His Daughter <hi>Ex<g ref="char:EOLhyphen"/>tremity</hi> was begotten by him in his younger years, as he was travel<g ref="char:EOLhyphen"/>ling to <hi>Damascus,</hi> before he had been better catechised and instructed by <hi>Ananias.</hi>
+               </p>
+               <p>The younger dayes of the Daugh<g ref="char:EOLhyphen"/>ter, were an imitation of the Fathers younger dayes, who observing, in those unsettled times that had been in <hi>Felici<g ref="char:EOLhyphen"/>ana,</hi> about that time when there was <hi>no King in Israel,</hi> and every man did what was right in his own eyes, that many distempered Humours, even to
+<pb n="46" facs="tcp:207913:34"/> a plain <hi>Delirium,</hi> if not <hi>Distraction,</hi> had pestered both Church and State, thought it high time to <hi>awaken</hi> Au<g ref="char:EOLhyphen"/>thority, to revive former severity, with some further addition too, to curb <hi>Moderation;</hi> and being passio<g ref="char:EOLhyphen"/>nately zealous to prevent any <hi>Rupture</hi> in the <hi>Church,</hi> before many other <hi>Disorders</hi> in the <hi>State,</hi> would have all brought into an <hi>exact</hi> Unifor<g ref="char:EOLhyphen"/>mity.</p>
+               <p>It fell out also unhappily, and much to the prejudice of <hi>Moderation,</hi> that some of those Sons of <hi>Disobedience,</hi> and Grand-children of <hi>Belial,</hi> had much about that time, or not long be<g ref="char:EOLhyphen"/>fore, broke out into an open Rebelli<g ref="char:EOLhyphen"/>on, and made seditious Commotions, when all were in expectation of set<g ref="char:EOLhyphen"/>tlement in the Island; and not long after a bloudy War was commenced, between that Island and some other potent Neighbours in the adjacent Islands: And <hi>Extremity,</hi> zealously watchful, and prudently sollicitous, to preserve common Peace at home, held
+<pb n="47" facs="tcp:207913:34"/> a suspitious eye over <hi>Moderation</hi> and all her Actions, as mistrusting she had underhand countenanced the former, or corresponded with the latter; both which (God knows) she was far enough from, constantly praying for publick Peace, and the prosperity of the Church and State; yet could not <hi>Innocency</hi> (as yet <hi>unknown</hi>) secure poor <hi>Moderation</hi> from many a harsh Censure and bitter Taunt. Then would <hi>Extremity</hi> twit <hi>Moderation,</hi> and charge her with disaffection, and often hit her in the teeth with the miscarriages of others, that she had nothing to do withall; and would be saying, you must go a way by your selves, and be wiser then all the world; and had I power in my hands, said some (which was well they had not) I would make <hi>Moderation</hi> pack, or change her note.</p>
+               <p>But afterwards, to the great sa<g ref="char:EOLhyphen"/>tisfaction of all, upon a through ob<g ref="char:EOLhyphen"/>servation, (I will not say a better
+<pb n="48" facs="tcp:207913:35"/> information) <hi>Extremities</hi> prejudice against <hi>Moderation</hi> was abated, and afterwards became perfect Friends, as we shall say anon.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="49" facs="tcp:207913:35"/>
+               <head>
+                  <hi>CHAP. IX.</hi> Of <hi>Disobedience, Moderation</hi>'s only Enemy, whom she hated, her Pedigree, Character, and vile Posterity.</head>
+               <p>
+                  <hi>DIsobedience</hi> was the other Enemy <hi>Moderation</hi> had, and her indeed did she as much hate as <hi>Extremity</hi> did her, and much more justly, for her many wicked pranks and practises a<g ref="char:EOLhyphen"/>gainst both Church and State, yea, against all <hi>humane Society.</hi>
+               </p>
+               <p>She was a Woman of an <hi>ill feature,</hi> and more untoward <hi>nature;</hi> descend<g ref="char:EOLhyphen"/>ed of an <hi>infamous</hi> and stained Family, yet very ancient; she was the Daugh<g ref="char:EOLhyphen"/>ter of old <hi>Belial,</hi> and that by a <hi>strange woman;</hi> she was of a shrewd and sub<g ref="char:EOLhyphen"/>tle
+<pb n="50" facs="tcp:207913:36"/> wit, mis-shapen countenance, mon<g ref="char:EOLhyphen"/>strous in her birth (being born with teeth in her head, came laughing into the world, with a <hi>Coal</hi> of fire in ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hand, and a <hi>Sword</hi> in the other) o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hollow eyes, and looking asquint ver<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ill-favouredly; besides, by a fall in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Cradle, she had her back broken, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> wry-neckt ever after: <hi>Nature</hi> ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> branded her for a prodigious <hi>Carryon</hi> She was twice married, first to <hi>Sheba</hi> the Son of <hi>Bichri,</hi> an old <hi>Incendiary</hi> and head of a seditious Crew; an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> after he had lost his head, she marrie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with <hi>Elymas</hi> the Sorcerer, who deal with the <hi>black</hi> Art, an utter enemy t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all Righteousness, and as full of al<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> subtilty, malice and wickedness, as hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Brethren the <hi>Jesuites</hi> could wish, o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his Father <hi>Beelzebub</hi> could make him and he was fittest for her, for it w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shrewdly suspected, they had bee<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> naught together before.</p>
+               <p>She was a Woman too too fruitful, and had by both her Husbands a ma<g ref="char:EOLhyphen"/>ny lewd, vicious, and graceless Chil<g ref="char:EOLhyphen"/>dren.</p>
+               <pb n="51" facs="tcp:207913:36"/>
+               <p>Her first Husband openly taught the Art, and invented the Instruments of Rebellion, was the first that blew a Trumpet of Sedition against his Soveraign; and it is thought she set him on: She had instructed her Chil<g ref="char:EOLhyphen"/>dren in all the wayes of Impiety and Disobedience; a <hi>Roman Catholick</hi> she was, and therefore sent some of her Children beyond-sea; some were Students at <hi>Doway,</hi> some at <hi>Lovayn,</hi> and one she sent to <hi>John of Leyden's Colledge</hi> at <hi>Munster:</hi> They were great Proficients all in the Arts, and very forward to propagate those Principles taught by the Hebrew Doctor <hi>Abad<g ref="char:EOLhyphen"/>don,</hi> the Greek Professor <hi>Apollyon,</hi> and the Latine Dictator <hi>Filius Perditionis;</hi> for some of them understood all Lan<g ref="char:EOLhyphen"/>guages; men of working brains and restless spirits; a viperous Generati<g ref="char:EOLhyphen"/>on, tearing out the bowels of whatso<g ref="char:EOLhyphen"/>ever Nation bred them; skilful to di<g ref="char:EOLhyphen"/>vide, destroy and supplant; the only Enemies to Monarchy and publick Peace; they have set their heads and their Agents awork to destroy Kings,
+<pb n="52" facs="tcp:207913:37"/> blow up Parliaments, burn Cities, lay waste Churches, to divide between Prince and people, to make or in<g ref="char:EOLhyphen"/>crease parties, and their last end is to bring in the <hi>Abomination of Desola<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>The <hi>Children</hi> by the later Husband were the more by far, and of several Complexions and Dispositions, as i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they had not been by the same Father and Mother; yet were they their na<g ref="char:EOLhyphen"/>tural Children, and had somewhat o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> both in them, for both were notorious for all or any manner of wickedness imaginable, <hi>neither barrel better Her<g ref="char:EOLhyphen"/>ring;</hi> and the Children like them, no<g ref="char:EOLhyphen"/>thing came amiss to them, so it were bad enough; such a Generation fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> swearing, staring, drinking, whoring, ranting, roaring, quarrelling, fighting, filching, stealing, cutting of Purses, and cutting of Throats, as was not in the world again, fearing nor God nor man, slighting Laws, Statutes Penalties, Stocks, Pillory, Prison▪ Gallows, Death, and Hell too, as it
+<pb n="53" facs="tcp:207913:37"/> they had been the Spawn of the old <hi>Leviathan,</hi> of whom it is said, he is made <hi>without fear;</hi> the Mother, for the Childrens sake, was called <hi>Mysti<g ref="char:EOLhyphen"/>cal Babylon,</hi> the Mother of whore<g ref="char:EOLhyphen"/>doms and all abominations in the earth.</p>
+               <p>Some of her Children are professed <hi>Atheists,</hi> and deriders of all Religion, of the <hi>Sadducean</hi> Heard, believing nor Angel, nor Spirit, nor Heaven, nor Hell, regarding nor Law nor Gospel: Some again she hath taught and train<g ref="char:EOLhyphen"/>ed up to be the Inventers of new coined Oaths, prodigious Blasphe<g ref="char:EOLhyphen"/>mies, and worse then hellish Execra<g ref="char:EOLhyphen"/>tions, and <hi>Preterplu-Satanical</hi> Impre<g ref="char:EOLhyphen"/>cations, out-daring Gods Justice and Patience, and dastarding Satan him<g ref="char:EOLhyphen"/>self, yea a whole Legion of Devils, not one of them once saying <hi>Dammee,</hi> but all <hi>Let us alone,</hi> I beseech thee <hi>tor<g ref="char:EOLhyphen"/>ment us not.</hi>
+               </p>
+               <p>Sure enough their damnation lin<g ref="char:EOLhyphen"/>greth not, who draw sin thus with
+<pb n="54" facs="tcp:207913:38"/> Cords, and damnation with Cart-ropes, and say, <hi>Let the most High make speed,</hi> that we may see him, and make hast, that we may know what <hi>Hell</hi> is▪ This I know, that when these wretch<g ref="char:EOLunhyphen"/>ed Souls are <hi>excoriated,</hi> and shall bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> begin to feel those torments, they wil<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> presently relent, and change thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> note, either seemingly to say thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Lords prayer, <hi>Let us alone now,</hi> an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> torment us not, or to say their ow<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> backward, Lord <hi>Ʋn-Dammee.</hi>
+               </p>
+               <p>Others again are the Masters and Professors of the <hi>Liberal Science o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Carowsing,</hi> and prescribe the rules and method of drinking round by numbe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and measure, till it be without either number or measure.</p>
+               <p>Others are devising new Games at Cards and Dice, and new wayes of cheating by them.</p>
+               <p>Out of this Family, as once out of tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> monstrous <hi>Palladian</hi> Beast, came ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ose that set <hi>Troynovant</hi> afire; or out
+<pb n="55" facs="tcp:207913:38"/> of this Pit came those swarms of Lo<g ref="char:EOLhyphen"/>custs, Drunkards, Gamesters, Whorers, Epicures, Luxurious and Riotous per<g ref="char:EOLhyphen"/>sons, who darken the glory of <hi>Felicia<g ref="char:EOLhyphen"/>na,</hi> and besides the devouring their own patrimonies, devour the fat and the best fruits and wealth of our Land.</p>
+               <p>All these called <hi>Disobedience Mo<g ref="char:EOLhyphen"/>ther,</hi> and were looked upon as hers by all that knew them, having the lively <hi>Image of the Beast in their foreheads;</hi> others had it in their <hi>right hand,</hi> set on by the <hi>right</hi> hand of Justice; o<g ref="char:EOLhyphen"/>thers had it in their Noses, by drink<g ref="char:EOLhyphen"/>ing too freely of Madam <hi>Porne's</hi> Cup; and others had a brand all their Face over, by tasting too oft of their Sister <hi>Crapula</hi>'s Bowl; but all spake one Lan<g ref="char:EOLhyphen"/>guage, which was the <hi>Language of the Beast</hi> (used by no Nation, Civil or Barbarous, but themselves) every word an Oath, or a Curse, or pro<g ref="char:EOLhyphen"/>phane Scoffe and Jest at Scripture and Piety, or a <hi>Belch</hi> of <hi>Baudery,</hi> which some called a corrupt or ba<g ref="char:EOLhyphen"/>stard
+<pb n="56" facs="tcp:207913:39"/>
+                  <hi>Hellenish,</hi> but others, who had more understanding, said, it was pure and perfect <hi>Hellish</hi> Language.</p>
+               <p>I should have told you also, that <hi>Disobedience,</hi> after her second marri<g ref="char:EOLhyphen"/>age, kept a common Inn (otherwise a common Stews.)</p>
+               <p>And as <hi>Experience, Moderation</hi>'s Aunt and best Friend, kept her School, so did <hi>Disobedience,</hi> her worst <hi>Enemy,</hi> set up a School to increase her comings in; but with this difference, that all were made the better (even the <hi>worst</hi>) that came under her hands; so all were the worse (even the <hi>best</hi>) that came under the hands of <hi>Diso<g ref="char:EOLhyphen"/>bedience.</hi>
+               </p>
+               <p>Many a fair estate was soon made away there, and many a hopeful per<g ref="char:EOLhyphen"/>son utterly undone and quite marred, that came to be acquainted with her, or any of hers.</p>
+               <p>She had six Daughters, to whom
+<pb n="57" facs="tcp:207913:39"/> she committed the carrying on of her Trade. The Eldest was <hi>Madam Porne,</hi> a Woman of person proper and handsom enough, but otherwise more common then proper, migh<g ref="char:EOLhyphen"/>ty gallant in her Dress and Ap<g ref="char:EOLhyphen"/>parel.</p>
+               <p>The Second <hi>Donna Spatalosa,</hi> a very lascivious Wanton and inticing Creature.</p>
+               <p>The Third <hi>Mistriss Crapula,</hi> a fowl Beast, all Belly and Guts.</p>
+               <p>The Fourth <hi>Bold Anaideia,</hi> a confi<g ref="char:EOLhyphen"/>dent and brazen-fac'd Slut, a Shame<g ref="char:EOLhyphen"/>less and impudent Carryon.</p>
+               <p>The Fift <hi>Donna Olympia,</hi> lately come from the Holy <hi>Mother-See,</hi> where she had practised the same Art, with much success, for many years.</p>
+               <p>The youngest <hi>Damosilla Blan<g ref="char:EOLhyphen"/>dula,</hi> a mighty fair-tongued,
+<pb n="58" facs="tcp:207913:40"/> smiling, and bewitching Crea<g ref="char:EOLhyphen"/>ture.</p>
+               <p>They lived all under the same Roof, and had their several Offices, their Lodgings are within, or over one another.</p>
+               <p>
+                  <hi>Blandula,</hi> the youngest, was to sit at the door, and watch and espy who went by, and what Passengers wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fit to be called in; them would she invite to come and make choice of a Room, and tell them what Entertain<g ref="char:EOLhyphen"/>ment was to be had in the House: Being entered, she conveys them pre<g ref="char:EOLhyphen"/>sently into <hi>Donna Olympia</hi>'s Lodging, who, for her self, was richly adorned with Jewels taken out of the <hi>Triple Crown,</hi> and her Room was hung with the rich Hangings she had brought out of the <hi>Vatican.</hi>
+               </p>
+               <p>After a short stay there, and a <hi>Col<g ref="char:EOLhyphen"/>lation</hi> given, and the <hi>Curiosities</hi> view<g ref="char:EOLhyphen"/>ed and looked over (that came from beyond Sea) among which were
+<pb n="59" facs="tcp:207913:40"/> certain <hi>Beads,</hi> and <hi>Medals,</hi> and some <hi>Images</hi> of our Lady and other Saints, and a fair <hi>Crucifix,</hi> she desires them to go up stairs to Mistriss <hi>Anaideia's</hi> Lodgings; Her they found at her Glass, curiously curling her Locks, and spotting her Face, with her na<g ref="char:EOLhyphen"/>ked Breasts, and her Chamber all round hung with many a <hi>lascivious</hi> Picture.</p>
+               <p>If then any one startled, and thought they had seen enough, and craved leave to return, they would all three tell them, there was more to be seen above, and they must not re<g ref="char:EOLhyphen"/>fuse to go up one short pair of Stairs and taste of their Sister <hi>Crapula's</hi> Cup; It was a Gilt Bole of old and clear <hi>Circe,</hi> a Liquor, whosoever once tasted was turned into a Swine at the <hi>second</hi> draught; then they would of them<g ref="char:EOLhyphen"/>selves desire to go on and see all, and to behold <hi>Donna Spatalosa;</hi> She was preparing Bracelets made of her hair, and mixing Potions for Guests, that she had expected, and she came bold<g ref="char:EOLhyphen"/>ly
+<pb n="60" facs="tcp:207913:41"/> and saluted them, offering them the courtesie of the House; and tells them, they must not refuse to visit their eldest Sister, Madam <hi>Porne,</hi> whose Room would give them more content, then all they had yet seen; There sat she on a stately <hi>Couch,</hi> in rich array of Silk and Crimson Satin, all daubed with broad <hi>Gold-lace;</hi> her Face new painted; she was old and wrinkled, but her paint made her look as fair as a Rose and a mixture of Lilly; a fair Room it was indeed, hung with the richest <hi>Arras;</hi> and you would wonder to see what a <hi>Cupboard</hi> was there of <hi>Plate,</hi> and what a fair <hi>Prospect</hi> into all the Fields and Gardens round about: She pre<g ref="char:EOLhyphen"/>sented them by the hands of her wait<g ref="char:EOLhyphen"/>ing Gentlewoman <hi>Eutrapeleia,</hi> a smi<g ref="char:EOLhyphen"/>ling, merry and witty young Wo<g ref="char:EOLhyphen"/>man (all Jests and mirth) with a <hi>Venus</hi> Glass of Wine, and some <hi>costly</hi> Sweet-meats: But under the <hi>Balcony</hi> was a close <hi>Trap-door</hi> (discerned by few) over a deep Ditch and narrow Pit, called <hi>Avernus,</hi> into which, after
+<pb n="61" facs="tcp:207913:41"/> a few short Amorous Embraces, she was wont to throw her Guests head<g ref="char:EOLhyphen"/>long, with the help of her Sisters, after they had first stript them of all they had about them, and they were never heard of more: Few, or none, that ever I heard of, that came once into Madam <hi>Porne's</hi> Clutches, ever came back again, or were seen alive, but sometimes a naked <hi>Corps</hi> was seen floating on the top of the Ditch: Only one escaped once, as <hi>Lot</hi> out of <hi>Sodom,</hi> to make the relation of their Entertainment; and he said, it was almost as great a miracle as his was; for he was fain to steal out at a back<g ref="char:EOLhyphen"/>door, which he found locked, but putting forth all his strength, he burst it open, and then came down a nar<g ref="char:EOLhyphen"/>row pair of Stairs, very steep and dark, which few were able to find, and so got away, resolving never to come more there; for said he, had I stayed longer, or attempted to go back the same way I came, I had certainly been <hi>snapt:</hi> He would ever after call them, <hi>the six fatal Sisters,</hi> and would warn
+<pb n="62" facs="tcp:207913:42"/> all his Acquaintance not to come near them.</p>
+               <p>But enough, and too much of <hi>Diso<g ref="char:EOLhyphen"/>bedience,</hi> and I fear I have troubled the Reader, with this long Discourse of her and her Children, and their wick<g ref="char:EOLhyphen"/>ed pranks; and no wonder, for it is this <hi>Disobedience</hi> that hath troubled all the World, troubled both God and Man.</p>
+               <p>To return therefore to <hi>Moderation;</hi> the wayes both of the one and other <hi>Litter</hi> she could not chuse but detest; and for the latter breed, she never had so much as her <hi>name</hi> called in question to <hi>favour</hi> any of them; but when any of the former Race broke out into <hi>Rebellion,</hi> she could not help it; but watchful and jealous <hi>Extremity</hi> would have some hard thoughts of her, as if she had been an Abettor, whereas she was never so much as <hi>privy</hi> to any of their <hi>Designs,</hi> and whensoever she came to hear of them, was as forward as any to <hi>declare</hi>
+                  <pb n="63" facs="tcp:207913:42"/> against them, and to give her best assi<g ref="char:EOLhyphen"/>stance to suppress them; and whenso<g ref="char:EOLhyphen"/>ever any of the Sons of <hi>Rebellion</hi> and <hi>Disobedience</hi> were taken, and did re<g ref="char:EOLhyphen"/>ceive condign punishment, she did heartily rejoyce, as having no such enemies of her own in that defiance, as those that were enemies to <hi>God,</hi> to the <hi>King,</hi> to <hi>Religion,</hi> and to her <hi>Coun<g ref="char:EOLhyphen"/>try.</hi>
+               </p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="64" facs="tcp:207913:43"/>
+               <head>
+                  <hi>CHAP. X.</hi> Of the Pedigree and Progeny of <hi>Politicus,</hi> no great friend to <hi>Moderation.</hi>
+               </head>
+               <p>I Could give you a Relation of a third Person also, that lived in the midway between <hi>Extremity</hi> and <hi>Mo<g ref="char:EOLhyphen"/>deration,</hi> who was no sure friend to <hi>Moderation,</hi> yet can I not call him an <hi>enemy</hi> neither. His name <hi>Politicus;</hi> and a meer <hi>Politician</hi> he was; no body could tell of what Religion he was, neither <hi>fish nor flesh;</hi> as he loved not <hi>Moderation,</hi> so he cared not for <hi>Ex<g ref="char:EOLhyphen"/>tremity;</hi> he hated <hi>Disobedience</hi> indeed to the very death, and was for that much to be commended.</p>
+               <pb n="65" facs="tcp:207913:43"/>
+               <p>He came of the Ancient Roman Race, <hi>Gallio</hi> his Grand-father, and <hi>Portius Festus</hi> his near Alliance: <hi>Poli<g ref="char:EOLhyphen"/>ticus</hi> was no bad Member in the <hi>Com<g ref="char:EOLhyphen"/>monwealth,</hi> though none of the great<g ref="char:EOLhyphen"/>est Friends to the <hi>Church</hi> nor <hi>Church<g ref="char:EOLhyphen"/>men,</hi> at whose <hi>Revenues</hi> he would sometime have a fling; no <hi>Recusant,</hi> much less <hi>Phanatick;</hi> scarce good <hi>Protestant,</hi> but of the <hi>Epicene Gen<g ref="char:EOLhyphen"/>der.</hi>
+               </p>
+               <p>He was a <hi>conformable,</hi> quiet and peaceable Subject, and many wayes useful and serviceable, being an ex<g ref="char:EOLhyphen"/>treme good natured man, ever loyal to his Prince, and true to his Coun<g ref="char:EOLhyphen"/>try.</p>
+               <p>In times of Peace he had a Com<g ref="char:EOLhyphen"/>mission for the <hi>Peace,</hi> and was in Au<g ref="char:EOLhyphen"/>thority, and singular good service he did, and kept his Country in quiet and good order, executing Justice between man &amp; man, &amp; now &amp; then he would put down some notorious ill <hi>Ale<g ref="char:EOLhyphen"/>house.</hi> In time of War he had a Com<g ref="char:EOLhyphen"/>mand,
+<pb n="66" facs="tcp:207913:44"/> and kept his Souldiers in good discipline, from Robbing and Plun<g ref="char:EOLhyphen"/>dering, as severe as <hi>Tamerlane:</hi> But he never troubled his head about <hi>Re<g ref="char:EOLhyphen"/>ligion.</hi>
+               </p>
+               <p>If God Almighty had created man for no higher end, then to live in Ci<g ref="char:EOLhyphen"/>vil Society, and to mind the things of this inferiour world, and this present life, there had been no better man then <hi>Politicus.</hi> But in as much as man, created in the Image of God, hath (as a more excellent <hi>nature</hi> and being then other Creatures, and more noble <hi>Endowments,</hi> so) a more excellent and higher end, <hi>viz.</hi> to seek, know, serve and worship God, and at last come to enjoy him, and have Commu<g ref="char:EOLhyphen"/>nion with him; and that Religion and true Piety is the only way and means to attain that end, and that there is another <hi>Country</hi> to be looked for after this, He was much to blame for his <hi>coldness</hi> and indifferency in mat<g ref="char:EOLhyphen"/>ters of Religion; many thought him little better then an <hi>Atheist</hi> in his
+<pb n="67" facs="tcp:207913:44"/> heart, though his life not much faulty.</p>
+               <p>He never exprest much zeal or re<g ref="char:EOLhyphen"/>gard to Piety, nor was he ever known to go to prayers by himself, nor much to look into his <hi>Bible:</hi> A piece of <hi>Tacitus,</hi> or <hi>Livy,</hi> or <hi>Machiavel,</hi> he would sometimes discourse of, and their Observations he did seem to rellish, as well as any in the Books of <hi>Moses</hi> and the <hi>Prophets:</hi> And for <hi>Seneca,</hi> and his <hi>Epistles</hi> of <hi>Morality,</hi> he did, in his Judgment, prefer them above, and did take more delight to read them, then all Saint <hi>Paul</hi>'s Epi<g ref="char:EOLhyphen"/>stles of <hi>Divinity.</hi>
+               </p>
+               <p>Several Children he had, both Sons and Daughters: His Sons, he gave them all a taste of good Lite<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ature, and gave them the breeding <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd education which was fit for Gen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lemen.</p>
+               <pb n="68" facs="tcp:207913:45"/>
+               <p>His eldest Son was bred a Courtier, his name <hi>Honorius.</hi>
+               </p>
+               <p>The second a Souldier, called Cap<g ref="char:EOLhyphen"/>tain <hi>Eupolemus.</hi>
+               </p>
+               <p>The third a Physitian, who tra<g ref="char:EOLhyphen"/>velled <hi>France</hi> and <hi>Italy,</hi> and took his D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gree at <hi>Padua,</hi> his name <hi>Temera<g ref="char:EOLhyphen"/>rius.</hi>
+               </p>
+               <p>A fourth he bred a Merchant, his name <hi>Do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>osus.</hi>
+               </p>
+               <p>And the youngest he made a Schol<g ref="char:EOLhyphen"/>ler▪ and a vain in Poetry he had, his n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me <hi>Gelasius,</hi> a marvellous witty and p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sant Gentleman he was, full of his <hi>Jocues</hi> and merry Conceits, that he made all the Company mirth where<g ref="char:EOLhyphen"/>ev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r he came. Civil Gentleme<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all, but of the Fathers Religi<g ref="char:EOLhyphen"/>on.</p>
+               <p>His eldest Daughter he named <hi>H<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>nora,</hi> her great Grand-mother w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="69" facs="tcp:207913:45"/> a Lady of Honour to Queen <hi>Ber<g ref="char:EOLhyphen"/>nice.</hi>
+               </p>
+               <p>And her Sister <hi>Phantasia</hi> was wait<g ref="char:EOLhyphen"/>ing Lady to her <hi>Highness Drusilla,</hi> much about the same time, in re<g ref="char:EOLhyphen"/>membrance of whom he called his se<g ref="char:EOLhyphen"/>cond Daughter by her name.</p>
+               <p>And the third was Madam <hi>Eula<g ref="char:EOLhyphen"/>lia;</hi> she could sing and dance rarely well, and had her French and Italian very perfect, and was well read in forreign Histori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, yet had never read the <hi>New Testament</hi> over twice in all her life, nor the <hi>Old Testament</hi> so much as once.</p>
+               <p>
+                  <hi>Eudoxia,</hi> the youngest, was the tallest and hansomest Woman of them all; an absolute <hi>Beauty,</hi> and of so rare a temper you could never an<g ref="char:EOLhyphen"/>ger her, and of so grac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ful a <hi>deport,</hi> that she took all persons: H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d you seen her at Church, which was but seldome, you would think you saw a <hi>Saint;</hi> would you be seri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us at
+<pb n="70" facs="tcp:207913:46"/> other times, she would be <hi>serious;</hi> would you be pleasant, she would be as <hi>facetious.</hi>
+               </p>
+               <p>Goodly Ladies they were indeed all four, and as great Gallants as were either in Court or City: But to tell you how they spent their time, and what was their employment, would be a strange story to tell our Grand<g ref="char:EOLhyphen"/>mothers, were they alive again, and much more strange to the old Christian Ladies that lived longer before them: Their <hi>morning</hi> was all taken up with <hi>Dressing, Painting, Powdering:</hi> The <hi>afternoon</hi> usually spent in <hi>Visits,</hi> or a <hi>Play-house;</hi> and at <hi>night</hi> a <hi>Pack of Cards:</hi> These were the Books they were most read in, and had them more in their hands, then either <hi>Bible, Ser<g ref="char:EOLhyphen"/>mon,</hi> or <hi>Prayer-book;</hi> and indeed all of them did more frequent the <hi>Play-house</hi> then their Parish-Church, the <hi>Prayer-house,</hi> and were more attentive there then here: Twice or thrice a moneth was fair to come to <hi>Church;</hi> but at a <hi>Play</hi> three or four times a
+<pb n="71" facs="tcp:207913:46"/> week was ordinary: To Church they came to <hi>see</hi> and to be <hi>seen,</hi> and that usually when Sermon or Prayers were half ended; but to the Play-house they went to <hi>learn,</hi> and came in with the first, and staid it out without tedi<g ref="char:EOLhyphen"/>ousness, as never thinking a <hi>Grace</hi> or <hi>Sermon</hi> too short, or a <hi>Play</hi> too long.</p>
+               <p>Rabbi <hi>Ben-Johnson</hi> was highly in their Books, and they more versed in his Writings, then either Rabbi <hi>Ben-Syrach,</hi> or Rabbi <hi>Solomon.</hi>
+               </p>
+               <p>But in as much as <hi>Politicus</hi> was no profest Enemy to <hi>Moderation,</hi> but wisht her as well as he did <hi>Extremity</hi> (he cared for them much alike) we will let him go, wishing that the State may never have cause to fear any <hi>Ene<g ref="char:EOLhyphen"/>my</hi> more, nor the Church and Religion need a <hi>Friend</hi> less.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="72" facs="tcp:207913:47"/>
+               <head>
+                  <hi>CHAP. XI.</hi> Of the Marriage of <hi>Moderation,</hi> her two Husbands, and Children by them.</head>
+               <p>NOw to return to the <hi>Marriage</hi> of <hi>Moderation.</hi> Her Brother <hi>Phi<g ref="char:EOLhyphen"/>lodike</hi> would fain have brought her to <hi>Court,</hi> and have her married to one of his own Rank, a Privy Counsellor of State, as knowing full well, how much more good he might do, being assisted by such another <hi>Privy Counsellor</hi> in his own <hi>Bosom.</hi>
+               </p>
+               <p>But her Brother <hi>Philotheos</hi> was earnest for a <hi>Church-man,</hi> his old Ac<g ref="char:EOLhyphen"/>quaintance, bred with him in the same Colledge, and his Chamber-fellow (somewhat his <hi>Junior</hi>) Doctor <hi>Eu<g ref="char:EOLhyphen"/>sebius,</hi>
+                  <pb n="73" facs="tcp:207913:47"/> and now also settled near him in a competent Living; a Grave and Reverend Minister he was as any in all the Country, an Orthodox and able Divine; to him the motion was no sooner made by the Brother, but he presently embraced it, both in re<g ref="char:EOLhyphen"/>spect of her singular Vertues, and of the Allyance to her Brethren. Soon after they were married, and most happily they lived, beloved of all the Parish, and honoured of all that knew them (Gentry, Clergy, and others;) but long she enjoyed not that happi<g ref="char:EOLhyphen"/>ness, for her Husband, being a sickly man, and worn out with his Studies and painfulness in preaching, was ta<g ref="char:EOLhyphen"/>ken away, to her great loss, and grief of the Country, and she left a sad Widdow, big with Child, of which she was after delivered, whom she called <hi>Settlement;</hi> as sweet and hope<g ref="char:EOLhyphen"/>ful Child as ever Woman bare, had he lived, but he dyed in his Cradle.</p>
+               <p>After some good space of time, her Brother <hi>Philodike</hi> desired she might
+<pb n="74" facs="tcp:207913:48"/> be married to a <hi>Statesman;</hi> and he was intimate with an Honourable Privy Counsellor, whose name was <hi>Philodemus;</hi> to him be recommended his Sister, and to him she was married, to his great contentment, and of all the Court besides: He lived not long with her neither, being aged when he married her, and left her with child again of <hi>Twins,</hi> who only lived to be christened: They were two Sisters, as lovely Babes as was ever lookt on, their names, <hi>Peace</hi> and <hi>Plenty,</hi> who dy<g ref="char:EOLhyphen"/>ed soon after their Father.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="75" facs="tcp:207913:48"/>
+               <head>
+                  <hi>CHAP. XII.</hi> Of the Trouble and Grief of <hi>Mo<g ref="char:EOLhyphen"/>deration:</hi> Her last Will: Her Heir: Epitaph.</head>
+               <p>ANd being now a Widow again, as seldom one Cross or grief comes alone, both her Husbands, <hi>Eu<g ref="char:EOLhyphen"/>sebius</hi> and <hi>Philodemus</hi> (and the Chil<g ref="char:EOLhyphen"/>dren by them) being dead, who would suffer no injury to be done her while they lived, they so dearly loved her. It fell out afterwards, that some of her envious Neighbours, who bare her no good will before, though she never did them the least wrong, would be offering her many an af<g ref="char:EOLhyphen"/>front, and ready to pick any Quarrrel with her.</p>
+               <pb n="76" facs="tcp:207913:49"/>
+               <p>A poor <hi>Widdow</hi> is ever like the gap broken in the hedge, soon <hi>trodden down;</hi> and old Friends now were grown Strangers, and, which went nearest to her heart, her two Brethren, who were wont formerly to support and countenance her in every thing, that was just and reasonable, were now under a Cloud: <hi>Philodike</hi> for appearing in a Cause, wherein Inno<g ref="char:EOLhyphen"/>cency had been opprest had he been silent (as his Grand-father <hi>Joseph</hi> and his Uncle <hi>Nicodemus</hi> had done before him) incurred the displeasure of some great Ones, who procured his troubles; and <hi>Philotheos</hi> for being now and then some<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat plain, and a litt<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> smart in an Use of <hi>Reproof;</hi> at both which she was inwardly grieved in her mind (and they being under restraint, or else keeping their Cham<g ref="char:EOLhyphen"/>ber by reason of their Age and Infir<g ref="char:EOLhyphen"/>mities) though she had learned to endure any thing, and was never for<g ref="char:EOLhyphen"/>ward to stir or move in her <hi>own pri<g ref="char:EOLhyphen"/>vate Cause;</hi> yet when she saw her two Brethren concerned in point of
+<pb n="77" facs="tcp:207913:49"/> their <hi>Honour</hi> and Reputation, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Publick more in point of <hi>welfar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> she could not for her life sit still, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> presents an humble and modest <hi>Peti<g ref="char:EOLhyphen"/>tion</hi> in their behalf, which was but this, that they might come to a fair hearing; and when matters should be rightly understood, if they were found Offenders, she desired no favour for them; she desired no more, and expected, at least, she might have been called in, and spoken to, or her Peti<g ref="char:EOLhyphen"/>tion read howsoever: But when no admittance could be obtained for <hi>Moderation,</hi> and instead thereof Taunts and Reproaches sent after, and told withall, that if she moved any further she should be secured (her old friend <hi>Extremity</hi> was then <hi>Door<g ref="char:EOLhyphen"/>keeper,</hi> and to be sure would do he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no good office, and she it was gave th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> answer, and it is thought of her ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> head:) <hi>Moderation</hi> took it so <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> heart, that she never joyed her se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> after, nor had any delight to go a<g ref="char:EOLhyphen"/>broad, but lived retired in her private Lodgings, and gave her self to her
+<pb n="78" facs="tcp:207913:50"/>
+                  <hi>Devotions,</hi> and not long after departed this life.</p>
+               <p>The news whereof no sooner came to the Brothers hearing, but it struck them to the very heart, that they both of them departed the self-same day, not willing to <hi>out-live</hi> their Sister <hi>Moderation.</hi> Never was the like heard of by all Relation, that two Brothers and Sister should all three dye in one day (but they had loved most entirely, as if they all had but <hi>one Soul</hi>) and they were all three buried together in the same Grave, the same Grave it was, wherein <hi>Eu<g ref="char:EOLhyphen"/>sebius</hi> and <hi>Philodemus,</hi> the two Hus<g ref="char:EOLhyphen"/>bands, and <hi>Settlement</hi> the Son, and <hi>Peace</hi> and <hi>Plenty</hi> the Daugh<g ref="char:EOLhyphen"/>ters of <hi>Moderation,</hi> had been laid be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>Now was both Court, City and Country full of Lamentations for the death of three such eminent Persons; neither were the two Brethren more lamented, then was sweet and all-contenting
+<pb n="79" facs="tcp:207913:50"/>
+                  <hi>all-pleasing Moderation;</hi> only <hi>Extremi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> rejoyced extreamly at the death of <hi>Moderation;</hi> and <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sobedience</hi> rejoyced as much at the death of <hi>Philodike</hi> and <hi>Philo<g ref="char:EOLhyphen"/>theos.</hi>
+               </p>
+               <p>
+                  <hi>Philodike</hi> was most lamented at Court by the Grandees, Sage States<g ref="char:EOLhyphen"/>men and Patriots, for his grave ad<g ref="char:EOLhyphen"/>vice and equal administration of Ju<g ref="char:EOLhyphen"/>stice, whereby the general Peace of <hi>Feliciana</hi> was preserved.</p>
+               <p>
+                  <hi>Philotheos</hi> was most lamented by the Clergy, and such as were learned, and able to judge of his Elaborate Tracts, his Solid and Learned Ser<g ref="char:EOLhyphen"/>mons, and his great Prudence in Ec<g ref="char:EOLhyphen"/>clesiastical Affairs, whereby the Cause of Religion, and the Peace and Ho<g ref="char:EOLhyphen"/>nour of the Church, had been main<g ref="char:EOLhyphen"/>tained and preserved. But as their names were above the understanding, so was their worth above the cogni<g ref="char:EOLhyphen"/>zance of the <hi>Vulgar.</hi>
+               </p>
+               <pb n="80" facs="tcp:207913:51"/>
+               <p>But as for <hi>Moderation,</hi> all knew what she was well enough; all <hi>Feli<g ref="char:EOLhyphen"/>ciana</hi> had heard and talked much of her all the Island over; as good a Subject as could live under a Prince, a true <hi>Daughter</hi> of the <hi>Church,</hi> and a <hi>Mother in Israel;</hi> and bewailed she was both in Court, City and Country, by Man, Woman and Child, young and old, simple and gentle, because all understood she had no interest but the publick good, and desired favour and protection only for such, as should be judged worthy to live in any well-governed State in the World: And the more lamented she was, because she dyed without <hi>Issue,</hi> and left none of her name behind; yet being sick, and knowing she was now near her end, she made her Will, and sent for a <hi>Kinswoman</hi> of hers, named <hi>Repen<g ref="char:EOLhyphen"/>tance</hi> (a Kinswoman once <hi>removed</hi>) younger sister to <hi>Consideration,</hi> dead before, and her she made her adopted Child, and sole Heir and <hi>Executrix;</hi> who so sadly took her death, that she was not only <hi>Close Mourner</hi> at
+<pb n="81" facs="tcp:207913:51"/> the Funeral, but went in mourning to her dying day, and could never get <hi>Moderation (dear Moderation)</hi> out of her mind.</p>
+               <p>Never was the Lady <hi>Dorcas</hi> more lamented, and her recovery more de<g ref="char:EOLhyphen"/>sired then was this Ladies: And very remarkable it is, though it be against the Religion professed in <hi>Feliciana,</hi> to put up any Prayers for their best Friends when dead, yet did all pray for <hi>Moderation</hi> when she was dead and gone, and the most <hi>Religious,</hi> the most <hi>heartily</hi> of all others, and so do to this day; yet not for the <hi>resting</hi> of her Soul, but for her return or <hi>Resur<g ref="char:EOLhyphen"/>rection,</hi> of which they have a stedfast belief and full expectation, grounded on an old <hi>Prophecy,</hi> whereof I shall tell you more anon. And seldom did any come near her Tomb, but they bedewed it with their Tears, over which, as I remember, was En<g ref="char:EOLhyphen"/>graven in a Latine Character,
+<q xml:lang="lat">
+                     <pb n="82" facs="tcp:207913:52"/>Heu placidè obdormit Veneranda Matrona Moderatio novam expectans Resuscitationem aute novissimam Resurrectionem.</q> And under it was this Epitaph, written in that Country Lan<g ref="char:EOLhyphen"/>guage,
+<q>
+                     <l>Here lyes Intombed Matron <hi>Modera<g ref="char:EOLhyphen"/>tion,</hi>
+                     </l>
+                     <l>True Friend of the Church, Joy of the Nation;</l>
+                     <l>Her worth to few was known</l>
+                     <l>Ʋntil that she was gone:</l>
+                     <l>No Issue great or small,</l>
+                     <l>This the saddest of all.</l>
+                     <l>All ye friends that look on,</l>
+                     <l>Pray for <hi>Moderation.</hi>
+                     </l>
+                     <l>Long may she not stay, let the next Generation</l>
+                     <l>See out of these Stones rise a <hi>New Moderation.</hi>
+                     </l>
+                  </q>
+               </p>
+               <pb n="83" facs="tcp:207913:52"/>
+               <p>And to see what good Prayers can do! Not long after, when you would have thought she had been quite consumed, <hi>Moderation</hi> did revive, and her Spirit did return, yet not into the former Corps (that had been too great a Miracle for this latter Age to believe) but as <hi>Moses</hi> Spirit was once transfused into <hi>se<g ref="char:EOLhyphen"/>venty</hi> others, so did her Spirit return, and was transfused, and did enter into many more, and made a happy change in them; They were now so many <hi>new Creatures,</hi> which made the Author, and many others, sing in the words of that famous Ver<g ref="char:EOLhyphen"/>ser,
+<q>
+                     <lg>
+                        <l>
+                           <hi>Jam nova Progenies Coelo dilabitur alto.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>There dropped down from Heaven high,</l>
+                        <l>Of Mankind a new Proge<g ref="char:EOLhyphen"/>ny.</l>
+                     </lg>
+                  </q>
+                  <pb n="84" facs="tcp:207913:53"/> Yea, and which was the wonder of all, and you will hardly believe it, even <hi>Extremity</hi> her self was chan<g ref="char:EOLhyphen"/>ged, and endued with another spi<g ref="char:EOLhyphen"/>rit, as the next Chapter will inform you.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="85" facs="tcp:207913:53"/>
+               <head>
+                  <hi>CHAP. XIII.</hi> Of the wonderful change wrought in <hi>Extremity,</hi> and the occasion and means of it.</head>
+               <p>BEfore I make an end, I shall tell you what became of <hi>Extremity</hi> and <hi>Disobedience: Extremity</hi> made a happy end, repented, reformed, and dyed comfortably; <hi>Disobedience</hi> lived obstinately and dyed miserably, and who could look for other?</p>
+               <p>
+                  <hi>Extremity,</hi> as I told you before, was the only Enemy that <hi>Moderation</hi> had in all the world, and had hated her extremely while she lived; and she the only Person that rejoyced, and indeed she insulted at her death.</p>
+               <pb n="86" facs="tcp:207913:54"/>
+               <p>But this Enmity lasted not al<g ref="char:EOLhyphen"/>wayes; for, as God would have it, within a few years after <hi>Moderation's</hi> death, <hi>Extremity</hi> fell into a fit of Sickness, and a happy Sickness it was to her, (her <hi>Extremity</hi> was Graces <hi>Opportunity</hi>) she was sore handled: An ordinary Disease it was not, but she was in great extremity and pain.</p>
+               <p>The Physitians, who were sent for, were at their Wits end, when they saw her: They perceived her trou<g ref="char:EOLhyphen"/>ble lay deeper, and concluded, by all Conjectures they could make, it was some inward trouble or grief oppres<g ref="char:EOLhyphen"/>sed her: And being much pressed by them, to declare whether it were so or no, she confessed at last it was so in<g ref="char:EOLhyphen"/>deed, and that she was much trou<g ref="char:EOLhyphen"/>bled in her <hi>Mind,</hi> and could get no rest.</p>
+               <p>It was about her former course o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> life, and her many sins; especially sh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> said, one thing lay heaviest upon he<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="87" facs="tcp:207913:54"/> above all others, which they were long ere they could get out of her; yet she was observed by them that watched with her, sometimes, be<g ref="char:EOLhyphen"/>tween sleeping and waking, to mut<g ref="char:EOLhyphen"/>ter to her self, and they could over<g ref="char:EOLhyphen"/>hear her now and then, and her talk was of <hi>Moderation;</hi> and many times she would start of a sudden, and look agast, and bid the <hi>By-standers</hi> look a<g ref="char:EOLhyphen"/>bout, and tell her if they saw any thing; and sometimes would ask them, if they saw not <hi>Moderation</hi> there. Once she lay, as in a <hi>Trance,</hi> and seemed to them to pray and call upon God for mercy: At another time she would cry out of her self, and her former miscarriages, saying, Ah! vile <hi>Extremity!</hi> Ah! sinful wretch <hi>Extremity!</hi> Ah! cruel <hi>Ex<g ref="char:EOLhyphen"/>tremity!</hi> And once she told one of her Maids, that <hi>Moderation</hi> had ap<g ref="char:EOLhyphen"/>peared to her in her sleep, all clothed in <hi>white,</hi> and with a smiling Counte<g ref="char:EOLhyphen"/>nance asked her, what reason she had to be so bitter an Enemy to her, who had never done her wrong in all her
+<pb n="88" facs="tcp:207913:55"/> life? and now she was dead continu<g ref="char:EOLhyphen"/>ed her Enmity to her Friends: Told her, she was sent to admonish her to repent, and amend her wayes, then should she be a happy Wo<g ref="char:EOLhyphen"/>man.</p>
+               <p>This did much run in her mind, and she would often say, O! that <hi>Moderation</hi> were alive again! All the World should see, I did not so much hate her before, as I should now prize and love her.</p>
+               <p>She would often wish also, that <hi>Eusebius</hi> or <hi>Philotheos,</hi> the Husband and Brother of <hi>Moderation,</hi> were now alive, that she might manifest what respect she bare them, and that in her distress she might ease her mind to them, and receive some comfort from them, which she thought was not possible for her to have, but from the hands of some of <hi>Moderation's</hi> Friends.</p>
+               <pb n="89" facs="tcp:207913:55"/>
+               <p>Then she began to make enquiry, what able and discreet <hi>Divine</hi> there was, to whom she might <hi>unbosom</hi> her self: And was told, there lived not far from her, a choice and prudent Minister, named <hi>Agathophilus,</hi> one well experienced in Cases and per<g ref="char:EOLhyphen"/>plexities of Conscience, and one mighty tender in dealing with a troubled Spirit (a chearful and com<g ref="char:EOLhyphen"/>fortable old Man he was, and a great cherisher of every Spark of good, were it never so little) and for that he had his name given him.</p>
+               <p>
+                  <hi>Extremity</hi> had never been acquaint<g ref="char:EOLhyphen"/>ed with him before, although they lived not far the one from the other (nor indeed with many other <hi>strict</hi> Divines, whom she had looked upon, for the most of them, formerly, as a company of <hi>Soure</hi> and <hi>discontented</hi> persons) for him she presently sends, and he came immediately, and she at first sight of him was ready, some<g ref="char:EOLhyphen"/>what like <hi>Cornelius</hi> to Saint <hi>Peter,</hi> to
+<pb n="90" facs="tcp:207913:56"/> rise off her Couch and fall down up<g ref="char:EOLhyphen"/>on her knees to him. He asked her how she did? what was her grief? She confessed she had been a grievous sin<g ref="char:EOLhyphen"/>ner, and had much offended; but one thing there was, which she had hitherto concealed, but now she would hide nothing from him; one thing there was, that troubled her more then all the rest; she had been a bitter Enemy to <hi>Moderation;</hi> and now she saw plainly (the Evening of Sickness is the Morning of Light) that she had been much mistaken in her, and feared she had much to an<g ref="char:EOLhyphen"/>swer for her <hi>uncharitableness;</hi> she had alwayes looked upon <hi>Moderation</hi> with an evil eye, as if she had been the vilest Creature alive, and thereupon had hated her to the death; but now she was quite and clean of another mind, and did think she was as good a Soul as lived, and the most inno<g ref="char:EOLhyphen"/>cent, and saw that she was a better Christian then her self; wishing, with all her heart, that when she dyed, she might change places with <hi>Modera<g ref="char:EOLhyphen"/>tion;</hi>
+                  <pb n="91" facs="tcp:207913:56"/> and were she now alive again, she would shew her all the love was possible: This and much more she confest, and the Tears gushed out when she mentioned these things; and oft-times would lift up her eyes to Heaven and pray, God forgive me my bitterness against <hi>Moderati<g ref="char:EOLhyphen"/>on.</hi>
+               </p>
+               <p>And another thing she charged her self withall, which she thought made her more inexcusable, and she said, she had never thought of it till in this her sickness; and that was this; she had been formerly under the hands of cruel <hi>Oppressours,</hi> and could not help her self; and indeed she had had <hi>hard</hi> measure, but it was not from the hands of <hi>Moderation,</hi> nor any of her Friends, who could only pity her, and were troubled to see it; but by other hands as <hi>extreme</hi> as <hi>Extremity</hi> her self: Schollers have a saying, <hi>One extream is most opposite to another:</hi> But then she had promised, and made a solemn Vow, that if ever she should
+<pb n="92" facs="tcp:207913:57"/> come out of her sufferings, she had learnt to pity sufferers while she liv<g ref="char:EOLhyphen"/>ed, and should never countenance <hi>Vi<g ref="char:EOLhyphen"/>olence</hi> again; yet since she had been in that good condition she now en<g ref="char:EOLhyphen"/>joyed; and <hi>Moderation</hi> she acknow<g ref="char:EOLhyphen"/>ledged had not been backward to con<g ref="char:EOLhyphen"/>tribute her best assistance for hers and the common benefit; she had both forgotten <hi>Moderation,</hi> and her own former Vows and Promises: And here she burst out into Tears a<g ref="char:EOLhyphen"/>fresh.</p>
+               <p>
+                  <hi>Agathophilus</hi> seeing her in such an Agony, fell to comfort her, yet told her, she had been much to blame for her former <hi>Violence;</hi> but seeing she was now so true a <hi>Penitent,</hi> and so changed in her mind, as she declared, he bad her not fear, her case was no wayes <hi>desperate;</hi> and to confirm her, he told her further, that in his Ex<g ref="char:EOLhyphen"/>perience he had met with the like be<g ref="char:EOLhyphen"/>fore, and could give her many Scrip<g ref="char:EOLhyphen"/>ture <hi>Instances.</hi>
+               </p>
+               <pb n="93" facs="tcp:207913:57"/>
+               <p>He would not tell her of <hi>Manas<g ref="char:EOLhyphen"/>ses</hi> (he said) and what he had done, yet found mercy, for his Case was quite beyond the <hi>Line,</hi> and <hi>Eccentrical</hi> to her Relation she had made.</p>
+               <p>But he could tell her of divers of no mean Quality, whose Names and Stories are no wayes <hi>blemished</hi> by it, that had been <hi>drawn aside</hi> sometimes as she had been: As <hi>Darius,</hi> a <hi>Me<g ref="char:EOLhyphen"/>dian</hi> King; and <hi>Ahasuerus,</hi> the <hi>Per<g ref="char:EOLhyphen"/>sian</hi> Emperour (some part of whose Story is recorded by a Sacred Pen) whose good Natures had been wrought upon, by the <hi>sollicitation</hi> of some mis-informers, to pass some <hi>Acts,</hi> severe enough, against some of <hi>Moderation's</hi> Ancestors; yet upon further enquiry and satisfaction, gave a check and stop to further pro<g ref="char:EOLhyphen"/>ceedings, repealing those Acts, and receiving into highest favour such as, by mis-representation, they had been whetted against; nor was it ever
+<pb n="94" facs="tcp:207913:58"/> imputed to them as a note of <hi>Incon<g ref="char:EOLhyphen"/>stancy,</hi> that they had rescinded such Acts, but is the brightest <hi>Star</hi> of Glory that shines in their <hi>Sto<g ref="char:EOLhyphen"/>ry.</hi>
+               </p>
+               <p>And for your Father, <hi>Saul</hi> the <hi>Second</hi> (said he) of ever blessed Memory, that famous <hi>Saint</hi> and <hi>Martyr,</hi> I need not tell you what the former part of his Story was; somewhat like yours, by your own relation: But he had been outra<g ref="char:EOLhyphen"/>gious when time was, not only hunting <hi>Moderation</hi> out of house and home in her own Corporati<g ref="char:EOLhyphen"/>ons, but persecuting her and her followers into <hi>strange Cities;</hi> yet did he not only find mercy, but for his memorable change and Pie<g ref="char:EOLhyphen"/>ty, afterwards hath his Name set down among the <hi>first Three.</hi>
+               </p>
+               <p>He was content to take the Taunt of <hi>Heretick</hi> at the hands of <hi>Tertullus,</hi> and of a <hi>Mad Phanatick</hi> at the hands of
+<pb n="95" facs="tcp:207913:58"/>
+                  <hi>Festus</hi> afterwards, he was so much altered.</p>
+               <p>The like, I trust, said he, will befall you, whose former dayes, by your own confession, have been like his, that your last end will be as his also; and if you continue in this good mind, you will hereafter come into the same estate he is pos<g ref="char:EOLhyphen"/>sessed of; for which purpose I shall ever pray for you, and, if you please, am now ready to pray with you— which accordingly he did before they parted.</p>
+               <p>She was not a little comforted and settled in her mind, after her discourse with <hi>Agathophilus;</hi> and soon after she mended apace and recovered, liv<g ref="char:EOLhyphen"/>ed many a day after, and made an hap<g ref="char:EOLhyphen"/>py end.</p>
+               <p>And to testifie the <hi>reallity</hi> of her change (not long after this ill Fit she proved with Child, and when
+<pb n="96" facs="tcp:207913:59"/> she had gone her time she was de<g ref="char:EOLhyphen"/>livered of a Daughter, and would have her called <hi>Mitigation,</hi> her elder Daughter being dead a little before, whose name was <hi>Violence,</hi> and upon her Death-bed she made it her last Request, to some of <hi>Mode<g ref="char:EOLhyphen"/>ration's</hi> Acquaintance, that her Daughter might be brought up with their Children, and if she lived to be bestowed in marriage, it might be to one of that Family, which she desired above any thing in this World, as being verily perswaded, <hi>God</hi> had a blessing in store for that <hi>Family,</hi> then should she dye in peace.</p>
+               <p>And so it came to pass as she de<g ref="char:EOLhyphen"/>sired, for <hi>Mitigation</hi> was marri<g ref="char:EOLhyphen"/>ed to a near Kinsman of <hi>Moderati<g ref="char:EOLhyphen"/>on's,</hi> called <hi>Philallelos,</hi> the loveli<g ref="char:EOLhyphen"/>est Person in the World: He was all <hi>Love,</hi> and nothing but Love, and so much his name signified when it was given him, and he made it good.</p>
+               <pb n="97" facs="tcp:207913:59"/>
+               <p>And now can it not be expressed, what joy this Marriage caused all the Country over; for by this means, those two great Families, of <hi>Extre<g ref="char:EOLhyphen"/>mity</hi> and <hi>Moderation,</hi> were united, which, while at enmity, had divi<g ref="char:EOLhyphen"/>ded and distracted all the <hi>Neighbour<g ref="char:EOLhyphen"/>hood.</hi>
+               </p>
+               <p>Of the which memorable Sickness, Repentance and Recovery of <hi>Extre<g ref="char:EOLhyphen"/>mity,</hi> and her change, and the Mar<g ref="char:EOLhyphen"/>riage of her Daughter, one made this following Verse, which though a plain and homely one, I thought fit to have inserted.</p>
+               <q>
+                  <l>
+                     <hi>Extremity</hi> was sick, and hard it is to say,</l>
+                  <l>In what extremity <hi>Extremity</hi> then lay,</l>
+                  <l>Troubled much in mind about <hi>Mo<g ref="char:EOLhyphen"/>deration,</hi>
+                  </l>
+                  <l>Whom she had pursued with much Indignation.</l>
+                  <pb n="98" facs="tcp:207913:60"/>
+                  <l>
+                     <hi>Extremity</hi> recovers, and a while after</l>
+                  <l>Into <hi>Moderation's</hi> Stock marries her Daughter.</l>
+                  <l>They being made Friends, the World was well amended:</l>
+                  <l>
+                     <hi>Mitigation</hi> survives, <hi>Extremity</hi> is ended.</l>
+               </q>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="99" facs="tcp:207913:60"/>
+               <head>
+                  <hi>CHAP. XIV.</hi> Containing a digression of the Author.</head>
+               <p>I Am not ignorant, that many will look upon all this that hath been said of <hi>Extremities</hi> Sickness, trou<g ref="char:EOLhyphen"/>ble in mind, and Repentance, to be but a Story, no more then <hi>Modera<g ref="char:EOLhyphen"/>tion's</hi> rising again. I shall not go about to impose upon any man a be<g ref="char:EOLhyphen"/>lief of what he dislikes, but leave every one to think what he plea<g ref="char:EOLhyphen"/>seth.</p>
+               <p>Only it is certain, that <hi>Philallelos</hi> and <hi>Mitigation</hi> made a happy match, and many there were that <hi>gave them Joy,</hi> and wisht they might live many
+<pb n="100" facs="tcp:207913:61"/> a good day together, and have many good Children between them, and hoped there would be much more Love among all the Neighbours, then there had been for a while be<g ref="char:EOLhyphen"/>fore: And, whencesoever it came, it was observed there was a fresh breathing of a Spirit of Love all o<g ref="char:EOLhyphen"/>ver the Land, as if serene <hi>Zephirus</hi> had blown away all the former Storms and Clouds, and presented Men with a milder Air to breath in; and the content that most had in their hearts and their hopes, were <hi>legible</hi> in the chearfulness of their <hi>Countenances.</hi> But what the secret causes of this alteration and recon<g ref="char:EOLhyphen"/>ciliation between <hi>Extremity</hi> and <hi>Mo<g ref="char:EOLhyphen"/>deration</hi> were, is too deep a Mystery for <hi>Hesychius Pamphilus</hi> to pene<g ref="char:EOLhyphen"/>trate. Only I shall relate to you, what were the several Conjectures of several Persons, who would, as they pleased, assign their several ap<g ref="char:EOLhyphen"/>prehensions, which might produce this happy effect.</p>
+               <pb n="101" facs="tcp:207913:61"/>
+               <p>First, This is not to be concealed, that the <hi>Inhabitants</hi> of <hi>Feliciana</hi> are a people above any in all the World beside, next to the <hi>Word of God,</hi> given much to the observation of <hi>Divine Providences;</hi> and they h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d taken notice, that after some hard dealing with <hi>Moderation,</hi> many dis<g ref="char:EOLhyphen"/>asters had befallen that Island (which though it were too high presumption to give the rea<g ref="char:EOLhyphen"/>son of, yet is it but piety to take notice of) as the Apparition of some prodigious <hi>Comets,</hi> which a<g ref="char:EOLhyphen"/>mazed the Spectators, and were seen in that Island (whether <hi>one</hi> and the same, or <hi>two,</hi> or <hi>three</hi>) for about six moneths together, fol<g ref="char:EOLhyphen"/>lowed with a sweeping <hi>Pestilence,</hi> which took away an hundred thou<g ref="char:EOLhyphen"/>sand out of the <hi>Capital</hi> City; and the same <hi>City,</hi> the year following, consumed with <hi>Fire,</hi> for the great<g ref="char:EOLhyphen"/>est part of it; and during all this time, a chargeable and doubtful War with potent Neighbours, con<g ref="char:EOLhyphen"/>suming
+<pb n="102" facs="tcp:207913:62"/> what Lives the Pestilence had spared, and what Treasure had escaped the Fire. <hi>Dreadful</hi> and <hi>a<g ref="char:EOLhyphen"/>mazing Judgments</hi> all.</p>
+               <p>With the pious sense whereof, many of the Islanders being duly affected, began to reflect upon themselves, as sometimes the <hi>Patri<g ref="char:EOLhyphen"/>arks</hi> did, in a day of their distress, and said, <hi>Are we not guilty con<g ref="char:EOLhyphen"/>cerning our Brother, because we saw the anguish of his Soul, when he besought us, and we would not hear?</hi>
+               </p>
+               <p>Others there are, that, next to the Goodness of God, ascribe it principally to the Native and <hi>large-hearted</hi> Clemency and Prudence of the <hi>Prince;</hi> who having observed how patient and silent <hi>Moderation</hi> had been under her Tryals; and moreover, when some unquiet Spi<g ref="char:EOLhyphen"/>rits had been formerly stirring at home; and during the time of that
+<pb n="103" facs="tcp:207913:62"/> War, that was then afoot with the Neighbours abroad, <hi>Extremity</hi> it self could not find the least <hi>de<g ref="char:EOLhyphen"/>fection</hi> in <hi>Moderation</hi> from her wonted constant <hi>Fidelity.</hi> There<g ref="char:EOLhyphen"/>upon the prudent <hi>Prince</hi> said to his people, as formerly another Prince had said to his, concerning the Fa<g ref="char:EOLhyphen"/>mily of <hi>Jacob, Behold, these men are quiet and peaceable, let them dwell in the Land, and trade therein; behold, the Land is large enough, let us make Marriages with them, and take their Daughters in marriage with our Sons.</hi>
+               </p>
+               <p>Others again said, it was no more but this; the good hour was come, wherein God would bring <hi>Modera<g ref="char:EOLhyphen"/>tion</hi> out of her Troubles, as he had done <hi>Joseph,</hi> who had lyen in disgrace under some foul Accusa<g ref="char:EOLhyphen"/>tions, <hi>till the time that his Word came, the Word of the Lord had tryed him; then the King sent and loosed him, the Ruler of the peo<g ref="char:EOLhyphen"/>ple,
+<pb n="104" facs="tcp:207913:63"/> and let him go free:</hi> And the rather, because he had been <hi>in<g ref="char:EOLhyphen"/>formed</hi> by some about him, that he had skill in opening <hi>Divine Re<g ref="char:EOLhyphen"/>velations,</hi> and might be of great use in preventing a (spiritual) <hi>Fa<g ref="char:EOLhyphen"/>mine.</hi>
+               </p>
+               <p>Others again, that it had been with the Daughter now, as it was with her Father <hi>Hyperzelotes,</hi> both in his first and last: <hi>Time</hi> and <hi>im<g ref="char:EOLhyphen"/>mediate inspiration</hi> from God, had wrought this blessed change in him; who, after his intemperate zeal spent against <hi>Moderation,</hi> became now her great Friend, Patron and Advocate, and then the most glo<g ref="char:EOLhyphen"/>rious Champion for Truth, Piety and Charity that ever was, and a most Eminent Instrument of good to the <hi>universal</hi> Church; after which, it is observed by a Sacred Pen, <hi>Then had the Churches rest in all</hi> Judea, Samaria <hi>and</hi> Galilee, <hi>and were edified, and, walking in
+<pb n="105" facs="tcp:207913:63"/> the fear of the Lord, and in the Com<g ref="char:EOLhyphen"/>forts of the Holy Ghost, were mul<g ref="char:EOLhyphen"/>tiplyed.</hi> And in all the Churches, where Tidings came of this blessed change, <hi>They glorified God in him.</hi> The like was now done in all <hi>Feli<g ref="char:EOLhyphen"/>ciana.</hi>
+               </p>
+               <p>Howsoever it was, and whatso<g ref="char:EOLhyphen"/>ever may be thought the cause, it becomes not <hi>Pamphilus</hi> to deter<g ref="char:EOLhyphen"/>mine; but all remembred, what a <hi>Blessed, Peace-making,</hi> and <hi>Great-Ʋniting-Monarch</hi> of a famous Island, had given for his Motto upon his Coin, <hi>A Domino factum est illud, &amp; est mirabile in oculis nostris:</hi> This was the Lords doing, and it is marvelous in our eyes: who had united Kingdoms, formerly divi<g ref="char:EOLhyphen"/>ded, and at enmity; and said, the like had befallen them; and there<g ref="char:EOLhyphen"/>fore desired God might have the whole <hi>glory</hi> and praise ascribed to him.</p>
+               <pb n="106" facs="tcp:207913:64"/>
+               <p>Only this is certain, nothing could have been done more to the general satisfaction of the sober sort of Men in the Island, to raise up their hearts in the highest praise of God, and to the greatest measure of thankfulness to so <hi>Gracious</hi> and <hi>Prudent</hi> a Prince, and to the cementing of Christian Love and mutual good Affection all the Island over (only <hi>Disobedience</hi> was much discontented; and look<g ref="char:EOLhyphen"/>ing scornfully out at a Window (as <hi>Michal</hi> once, when all <hi>Israel</hi> were in their highest joy at a great <hi>Festival</hi>) and shook her head:) So that <hi>Is<g ref="char:EOLhyphen"/>rael</hi> of old did not more rejoyce, when the King had brought the <hi>Ark</hi> out of a <hi>private</hi> House into <hi>publick</hi> again, and appointed it a fixed Sta<g ref="char:EOLhyphen"/>tion; or when the Son of the same King had newly <hi>Dedicated</hi> the holy Temple; it being set down in their sacred Stories, that both these Prin<g ref="char:EOLhyphen"/>ces blessed their people, and they were again blessed by their people: And the conclusion of the Story of the
+<pb n="107" facs="tcp:207913:64"/> latter was this; after his Devotions ended, <hi>He sent away the people, and they blessed the King, and went into their Tents, joyful and glad in heart, for all the goodness the Lord had done for David his Servant, and for Israel his People.</hi>
+               </p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="108" facs="tcp:207913:65"/>
+               <head>
+                  <hi>CHAP. XV.</hi> What became of <hi>Disobedience</hi> and her Children, they being quelled and reduced, what a happy World followed, ac<g ref="char:EOLhyphen"/>cording to an old <hi>Prophe<g ref="char:EOLhyphen"/>cy.</hi>
+               </head>
+               <p>NOw, when we shall have dis<g ref="char:EOLhyphen"/>patched <hi>Disobedience</hi> out of the way, our work is at an end; we shall therefore tell you what be<g ref="char:EOLhyphen"/>came of her, now there was no o<g ref="char:EOLhyphen"/>ther Enemy to be suppressed; And would we could say, she came to the like good end <hi>Extremity</hi> made: But it was never likely.—</p>
+               <pb n="109" facs="tcp:207913:65"/>
+               <p>She was not of like Temper and Spirit as <hi>Extremity</hi> was, ever to be touched with any sense of <hi>Honour</hi> or <hi>Conscience.</hi>
+               </p>
+               <p>
+                  <hi>Extremity</hi> was of a <hi>Generous</hi> Spirit, and <hi>Noble</hi> Education, and ever bare a true Love to her Country; only too too <hi>passionate.</hi>
+               </p>
+               <p>
+                  <hi>Disobedience,</hi> on the other side, was of a dogged, surly and unqui<g ref="char:EOLhyphen"/>et Spirit; nothing could please her, neither could she well tell what she would have, only fretted at the times, and her own private con<g ref="char:EOLhyphen"/>dition.</p>
+               <p>But now those great Families of <hi>Extremity</hi> and <hi>Moderation</hi> being united and allyed, there was no fear of any considerable disturbance <hi>Disobedience</hi> could make. And to make sure, and timely to prevent any mischief that any of the <hi>Chil<g ref="char:EOLhyphen"/>dren of Disobedience</hi> could hatch or
+<pb n="110" facs="tcp:207913:66"/> devise, <hi>Extremity</hi> and <hi>Moderation's</hi> Friends agreed, with their united Forces to fall upon them: And they being within a short time after up in Rebellion, it was the Lot of a Party of <hi>Extremities</hi> Forces to give the first charge, who scattered the body, and took some of the chief Heads, and made them Examples; and <hi>Moderation's,</hi> with their Party, took some others: And both agreed, to the terror of the rest, to send them bound to their Father <hi>Absa<g ref="char:EOLhyphen"/>lom's Oak,</hi> drawn backward in his Chariot by his <hi>Mule,</hi> whom when she carried thither, and had left them safe hanging by the head, be<g ref="char:EOLhyphen"/>tween <hi>Heaven</hi> and <hi>Earth,</hi> upon a <hi>three-forked</hi> Branch (the <hi>Wood</hi> devou<g ref="char:EOLhyphen"/>red more that day then the <hi>Sword</hi>) the lightened Beast went away from under them, leaving them hang<g ref="char:EOLhyphen"/>ing.</p>
+               <p>Some of the rest that were taken stragling, were made to go on Pil<g ref="char:EOLhyphen"/>grimage
+<pb n="111" facs="tcp:207913:66"/> a foot to the <hi>Oak of Refor<g ref="char:EOLhyphen"/>mation,</hi> a Tree which had formerly done good service on like occasion in the dayes of their fore-fathers: And because this Tree was some<g ref="char:EOLhyphen"/>what higher then the former, they were fain to climb, or else to be lifted up to it, and presently af<g ref="char:EOLhyphen"/>ter, the kind Earth, to rid the World of them, <hi>opened,</hi> and they <hi>were swallowed up with the Congregation of Abiram.</hi>
+               </p>
+               <p>The Heads being taken off thus, the rest submitted, and fell to hard Labour; all save a few de<g ref="char:EOLhyphen"/>sperate ones, who seeing they could do no <hi>more good</hi> on it (others call it <hi>mischief</hi> and wickedness) fled the Island: Only some (too many of them too) of the latter brood of <hi>Disobedience,</hi> the <hi>Hectors</hi> and <hi>To<g ref="char:EOLhyphen"/>ries,</hi> the Drunkards, Whoremon<g ref="char:EOLhyphen"/>gers, and other vicious persons, remained sculking in Corners, and harboured in wicked houses, whom
+<pb n="112" facs="tcp:207913:67"/> it is hoped, the good and whole<g ref="char:EOLhyphen"/>some <hi>Laws</hi> of the Island (for there are no better any where) and <hi>due execution</hi> of them, may, in time, reduce from the evil wayes of their Mother <hi>Disobedience;</hi> then no Na<g ref="char:EOLhyphen"/>tion in the World more happy, and may well be called <hi>Feliciana,</hi> or <hi>Eli<g ref="char:EOLhyphen"/>siana</hi> for ever.</p>
+               <p>But already all Storms were scat<g ref="char:EOLhyphen"/>tered, and an happy Calm follow<g ref="char:EOLhyphen"/>ed, and there seemed to be a new World: The <hi>Island</hi> was settled, Armies disbanded, every Man sate under his own <hi>Vine and Fig-tree, eating, drinking and making merry,</hi> as in the <hi>older</hi> World, or in the <hi>Halcyon</hi> and <hi>Golden</hi> dayes of <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>'s Reign, rejoycing, that <hi>Mercy</hi> and <hi>Truth, Righteousness</hi> and <hi>Peace, Extremity</hi> and <hi>Moderation,</hi> had kis<g ref="char:EOLhyphen"/>sed each other: And the Primitive times did seem to be returned, wherein they did <hi>eat their meat with gladness and sing eness of heart,
+<pb n="113" facs="tcp:207913:67"/> praising God, and having favour with all the people, and the Lord added to his Church dayly such as should be saved.</hi> And all good Men pray<g ref="char:EOLhyphen"/>ed, long may <hi>Extremity</hi> and <hi>Mode<g ref="char:EOLhyphen"/>ration</hi> be friends, or rather, no more <hi>Extremity,</hi> but alwayes <hi>Modera<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>And then many could remem<g ref="char:EOLhyphen"/>ber, there had been an old <hi>Pro<g ref="char:EOLhyphen"/>phecy,</hi> which their Fathers had told them (foretold many a day agone by a holy Man) which was now fulfilled, and was to this effect.</p>
+               <q>
+                  <l>
+                     <hi>Moderation</hi> shall Revive, <hi>Ex<g ref="char:EOLhyphen"/>tremity</hi> shall Cease,</l>
+                  <l>
+                     <hi>Disobedience</hi> stoop to Reason, All end in Peace.</l>
+               </q>
+               <p>The Envy of <hi>Ephraim</hi> shall cease; <hi>Ephraim</hi> shall not envy <hi>Judah,</hi> nor <hi>Judah</hi> vex <hi>Ephraim.</hi>
+               </p>
+               <q xml:lang="lat">
+                  <pb n="100" facs="tcp:207913:68"/>
+                  <l>Te Duce, siqua manent sceleris vestigia nostri,</l>
+                  <l>Irrita perpetua solvent formidi<g ref="char:EOLhyphen"/>ne Terras. <bibl>
+                        <hi>Virgil.</hi>
+                     </bibl>
+                  </l>
+               </q>
+               <closer>Glory to God in the highest, on Earth Peace, and good will amongst Men.</closer>
+            </div>
+            <div type="recipe">
+               <pb facs="tcp:207913:68"/>
+               <head>
+                  <hi>Moderations</hi> Receipt, (<hi>taught her by her</hi> Aunt <hi>Experience;</hi>) Soveraign to cure any Distempers in the Church, especi<g ref="char:EOLhyphen"/>ally inward in the Bowels; as also of excellent vertue against a Rupture.</head>
+               <l>BLest Soul! she taught how to secure</l>
+               <l>The Church. 'Twill do, if put in ure.</l>
+               <pb facs="tcp:207913:69"/>
+               <l>A <hi>Pound</hi> of <hi>Piety</hi> she singles,</l>
+               <l>As much of <hi>Charity</hi> then mingles:</l>
+               <l>
+                  <hi>Zeal</hi> bruis'd with <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> next she takes,</l>
+               <l>(Two <hi>Pugils</hi> a rare Compound makes)</l>
+               <l>Then tops of <hi>Prudence,</hi> and the <hi>Pith</hi>
+               </l>
+               <l>Of <hi>Elder</hi> Faith, <hi>Stale</hi> Truth, therewith</l>
+               <pb facs="tcp:207913:69"/>
+               <l>A good handful of <hi>Hu<g ref="char:EOLhyphen"/>mility,</hi>
+               </l>
+               <l>Some mild <hi>Forbearance, Ʋnity</hi>
+               </l>
+               <l>In Matters <hi>Mayn;</hi> Opini<g ref="char:EOLhyphen"/>ons <hi>New,</hi>
+               </l>
+               <l>Leaves, Roots and Stalks away she threw;</l>
+               <l>And to make sure it shall Digest,</l>
+               <l>
+                  <hi>Loyalty</hi> sweetens all the rest.</l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="glossary_of_names">
+            <pb facs="tcp:207913:70"/>
+            <pb facs="tcp:207913:70"/>
+            <head>THE Outlandish Names IN THIS DISCOURSE ENGLISHED.</head>
+            <list>
+               <item>
+                  <hi>ABaddon,</hi> and <hi>Apol<g ref="char:EOLhyphen"/>lyon,</hi> Names giv<g ref="char:EOLhyphen"/>en in Scripture to Satan, signifie a Destroyer.</item>
+               <pb facs="tcp:207913:71"/>
+               <item>
+                  <hi>Agathophilus,</hi> a Lov<g ref="char:EOLhyphen"/>er of Goodness or good Men.</item>
+               <item>
+                  <hi>Anaideia,</hi> Impudence.</item>
+               <item>
+                  <hi>Asotos,</hi> a Prodigal or Riotous person.</item>
+               <item>
+                  <hi>Avernus,</hi> a Lake put for Hell.</item>
+               <item>
+                  <hi>Blandula,</hi> a fair spo<g ref="char:EOLhyphen"/>ken Woman, or a Flatte<g ref="char:EOLhyphen"/>rer.</item>
+               <item>
+                  <hi>Ben-hagios,</hi> an holy Son.</item>
+               <pb facs="tcp:207913:71"/>
+               <item>
+                  <hi>Bar-Jonah,</hi> the Son of the Dove.</item>
+               <item>
+                  <hi>Crapula,</hi> Drunken<g ref="char:EOLhyphen"/>ness, or Excess.</item>
+               <item>
+                  <hi>Circe,</hi> a Witch, whose Cups turned men into Swine.</item>
+               <item>
+                  <hi>Donna Olympia,</hi> a Roman Lady, who lately managed all Affairs for the Pope, at the Court at <hi>Rome.</hi>
+               </item>
+               <pb facs="tcp:207913:72"/>
+               <item>
+                  <hi>Donna Spatulosa,</hi> a lascivious Lady.</item>
+               <item>
+                  <hi>Dolosus,</hi> Subtle, or Crafty.</item>
+               <item>
+                  <hi>Eulaleia,</hi> a well-spoken Woman.</item>
+               <item>
+                  <hi>Eudorla,</hi> Comeliness, or making a fair shew.</item>
+               <item>
+                  <hi>Eupolemus,</hi> a good Warriour.</item>
+               <item>
+                  <hi>Eusebius,</hi> a Godly person.</item>
+               <pb facs="tcp:207913:72"/>
+               <item>
+                  <hi>Eutrapeleia,</hi> Jesting, or Merriment.</item>
+               <item>
+                  <hi>Feliciana,</hi> an happy Island.</item>
+               <item>
+                  <hi>Gelasius,</hi> one given to Laughter.</item>
+               <item>
+                  <hi>Hyperphiladelpho<g ref="char:EOLhyphen"/>tus,</hi> one exceeding loving to the Brethren.</item>
+               <item>
+                  <hi>Hyperzelotes,</hi> exces<g ref="char:EOLhyphen"/>sively zealous.</item>
+               <pb facs="tcp:207913:73"/>
+               <item>
+                  <hi>Misoponos,</hi> one that hates labour and pains.</item>
+               <item>
+                  <hi>Phantasia,</hi> Pomp, or Gallantry.</item>
+               <item>
+                  <hi>Philautos,</hi> one that loves himself.</item>
+               <item>
+                  <hi>Philallelos,</hi> one that loveth others.</item>
+               <item>
+                  <hi>Philedonos,</hi> a lover of pleasure.</item>
+               <item>
+                  <hi>Philodemus,</hi> a lover of the people.</item>
+               <pb facs="tcp:207913:73"/>
+               <item>
+                  <hi>Philodike,</hi> a lover of Justice.</item>
+               <item>
+                  <hi>Philotheos,</hi> a lover of God.</item>
+               <item>
+                  <hi>Porne,</hi> a Harlot.</item>
+               <item>
+                  <hi>Probation,</hi> Tryal.</item>
+               <item>
+                  <hi>Temerarius,</hi> Rash, or venturous.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
